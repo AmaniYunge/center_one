@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Chewy';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Chewy'), url(nB-Yp57-ChbdqJ4CkQVXAQ.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Abel'), local('Abel-Regular'), url(EAqh528fFdbUek8UOky4sA.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Terminal Dosis Light';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Terminal Dosis Light'), local('TerminalDosis-Light'), url(UyNOlq8pwXsdXFw6uDx3EvE6Kx76Zt1qXITZE9-oKFQ.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Maven Pro Regular'), local('MavenProRegular'), url(MG9KbUZFchDs94Tbv9U-pT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
