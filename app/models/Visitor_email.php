@@ -1,7 +1,15 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: hrhis
- * Date: 6/21/14
- * Time: 12:38 PM
- */ 
+class Visitor_email extends Eloquent {
+
+    /**
+     * The database table used by the model.
+     *
+     * @var string
+     */
+    protected $table = 'Visitor_email';
+
+    protected  $guarded = array('id');
+    public $timestamps = false;
+
+
+}

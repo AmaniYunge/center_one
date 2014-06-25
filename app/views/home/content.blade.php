@@ -9,7 +9,6 @@
                 <div id="divHeaderText" class="page-content">
                     <div id="divHeaderLine1">Header Text Here!</div><br />
                     <div id="divHeaderLine2">2nd Line Header Text for calling extra attention to featured content or information.</div><br />
-                    <div id="divHeaderLine3"><a class="btn btn-large btn-secondary" href="#">Secondary Button</a>    <a class="btn btn-large btn-primary" href="#">Primary Button</a></div>
                 </div>
 
             </div>
@@ -69,6 +68,6 @@
 
         </div>
 
-        <div id="footerInnerSeparator"></div>
+        <div id="footerInnerSeparator" class="home"></div>
     </div>
 </div>

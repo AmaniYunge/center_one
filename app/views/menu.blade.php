@@ -4,11 +4,21 @@
     </button>
     <div class="nav-collapse collapse">
         <ul class="nav nav-pills ddmenu">
-            <li class="dropdown active"><a href="{{ url("/") }}">Home</a></li>
-            <li class="dropdown"><a href="{{ url("/about") }}">About Us</a></li>
-            <li class="dropdown"><a href="{{ url("/contact") }}">Contact</a></li>
-            <li class="dropdown"><a href="{{ url("/we_do") }}">What we do</a></li>
-            <li class="dropdown"><a href="{{ url("/login") }}">login</a></li>
+            <li class="dropdown active" id="home"><a href="{{ url("/") }}">Home</a></li>
+            <li class="dropdown" id="who_we">
+                <a class="dropdown-toggle" href="#">Who we are<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li id="history"><a href="{{ url("/who/history") }}">History</a></li>
+                    <li id="leadership"><a href="{{ url("/who/leadership") }}">Leadership & Governance</a></li>
+                    <li id="staff"><a href="{{ url("/who/staff") }}">Staff</a></li>
+                </ul>
+            </li>
+            <li class="dropdown" id="what"><a href="{{ url("/what") }}">What we do</a></li>
+            <li class="dropdown" id="project"><a href="{{ url("/project") }}">Projects</a></li>
+            <li class="dropdown" id="opportunity"><a href="{{ url("/opportunity") }}">Opportunities</a></li>
+            <li class="dropdown" id="contact"><a href="{{ url("/contact") }}">Contact us</a></li>
+            <li class="dropdown"><a href="#myModal"  class="btn btn-small btn-warning" data-toggle="modal"><b>login</b></a></li>
         </ul>
     </div>
 </div>
+

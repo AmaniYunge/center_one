@@ -25,3 +25,11 @@
     font-weight: 400;
     src: local('Maven Pro Regular'), local('MavenProRegular'), url(MG9KbUZFchDs94Tbv9U-pT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
+
+input.input-xxlarge{
+    height:35px!important;
+}
+
+textarea.input-xxlarge{
+    height:200px!important;
+}

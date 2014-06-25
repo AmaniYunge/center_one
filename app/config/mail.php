@@ -28,8 +28,8 @@ return array(
 	|
 	*/
 
-	'host' => 'smtp.mailgun.org',
-
+	//'host' => 'smtp.mailgun.org',
+    'host' => 'smtp.gmail.com',
 	/*
 	|--------------------------------------------------------------------------
 	| SMTP Host Port
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => null,
+	'username' => 'leo.august27@gmail.com',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => null,
+	'password' => 'mariampande',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -122,3 +122,10 @@ return array(
 	'pretend' => false,
 
 );
+
+
+//'host' => 'smtp.gmail.com',
+//'port' => 465,
+//'encryption' => 'ssl',
+//'username' => '*your@gmail.com*',
+//'password' => '*yourpassword*',

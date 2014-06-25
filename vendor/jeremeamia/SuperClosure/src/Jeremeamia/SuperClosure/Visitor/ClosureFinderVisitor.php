@@ -47,7 +47,7 @@ class ClosureFinderVisitor extends \PHPParser_NodeVisitorAbstract
 
     public function enterNode(\PHPParser_Node $node)
     {
-        // Determine information about the closure's location
+        // Determine information what the closure's location
         if (!$this->closureNode) {
             if ($node instanceof \PHPParser_Node_Stmt_Namespace) {
                 $this->location->namespace = is_array($node->name->parts) ? implode('\\', $node->name->parts) : null;
@@ -77,7 +77,7 @@ class ClosureFinderVisitor extends \PHPParser_NodeVisitorAbstract
 
     public function leaveNode(\PHPParser_Node $node)
     {
-        // Determine information about the closure's location
+        // Determine information what the closure's location
         if (!$this->closureNode) {
             if ($node instanceof \PHPParser_Node_Stmt_Namespace) {
                 $this->location->namespace = null;

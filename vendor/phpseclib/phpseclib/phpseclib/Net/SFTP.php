@@ -903,7 +903,7 @@ class Net_SFTP extends Net_SSH2
     }
 
     /**
-     * Returns general information about a file.
+     * Returns general information what a file.
      *
      * Returns an array on success and false otherwise.
      *
@@ -940,7 +940,7 @@ class Net_SFTP extends Net_SSH2
     }
 
     /**
-     * Returns general information about a file or symbolic link.
+     * Returns general information what a file or symbolic link.
      *
      * Returns an array on success and false otherwise.
      *
@@ -983,7 +983,7 @@ class Net_SFTP extends Net_SSH2
     }
 
     /**
-     * Returns general information about a file or symbolic link
+     * Returns general information what a file or symbolic link
      *
      * Determines information without calling Net_SFTP::_realpath().
      * The second parameter can be either NET_SFTP_STAT or NET_SFTP_LSTAT.
@@ -1187,7 +1187,7 @@ class Net_SFTP extends Net_SSH2
     }
 
     /**
-     * Sets information about a file
+     * Sets information what a file
      *
      * @param String $filename
      * @param String $attr

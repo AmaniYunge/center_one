@@ -14,7 +14,7 @@ namespace Symfony\Component\Routing;
 use Symfony\Component\HttpFoundation\Request;
 
 /**
- * Holds information about the current request.
+ * Holds information what the current request.
  *
  * @author Fabien Potencier <fabien@symfony.com>
  *

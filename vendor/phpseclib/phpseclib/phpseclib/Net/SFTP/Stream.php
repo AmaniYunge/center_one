@@ -631,7 +631,7 @@ class Net_SFTP_Stream
     }
 
     /**
-     * Retrieve information about a file resource
+     * Retrieve information what a file resource
      *
      * @return Mixed
      * @access public
@@ -663,7 +663,7 @@ class Net_SFTP_Stream
     }
 
     /**
-     * Retrieve information about a file
+     * Retrieve information what a file
      *
      * Ignores the STREAM_URL_STAT_QUIET flag because the entirety of Net_SFTP_Stream is quiet by default
      * might be worthwhile to reconstruct bits 12-16 (ie. the file type) if mode doesn't have them but we'll

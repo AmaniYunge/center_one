@@ -6,6 +6,8 @@
  * Time: 6:01 PM
  */
 
-class History {
+class History extends Eloquent {
+    protected $table = 'history';
 
+    protected  $guarded = array('id');
 } 
