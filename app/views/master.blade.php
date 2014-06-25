@@ -35,8 +35,6 @@
     {{HTML::style('css/screen.css')}}-->
     {{HTML::style('css/prettyPhoto.css')}}
 
-
-
     {{HTML::script('scripts/jquery-1.8.2.min.js')}}
     {{HTML::script('scripts/bootstrap/js/bootstrap.min.js')}}
     {{HTML::script('scripts/default.js')}}

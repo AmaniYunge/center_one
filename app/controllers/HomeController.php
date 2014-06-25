@@ -57,8 +57,6 @@ class HomeController extends BaseController {
             return View::make('opportunity.index');
         }
 
-
-
     /////////////// functions to handle contacts
      public function contact()
         {
