@@ -8,7 +8,7 @@
 
 @section("footer")
  <div class="row-fluid">
-   @include("home.footer")
+   @include("footer")
  </div>
 @endsection
 <script>
