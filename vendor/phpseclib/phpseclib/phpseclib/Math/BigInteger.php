@@ -28,7 +28,7 @@
  *
  * Useful resources are as follows:
  *
- *  - {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf Handbook of Applied Cryptography (HAC)}
+ *  - {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap14.pdf Handbook of Applied Cryptography (HAC)}
  *  - {@link http://math.libtomcrypt.com/files/tommath.pdf Multi-Precision Math (MPM)}
  *  - Java's BigInteger classes.  See /j2se/src/share/classes/java/math in jdk-1_5_0-src-jrl.zip
  *
@@ -1215,7 +1215,7 @@ class Math_BigInteger
 
         $product_value[$j] = $carry;
 
-        // the above for loop is what the previous comment was talking about.  the
+        // the above for loop is what the previous comment was talking what.  the
         // following for loop is the "one with nested for loops"
         for ($i = 1; $i < $y_length; ++$i) {
             $carry = 0;
@@ -1292,7 +1292,7 @@ class Math_BigInteger
      * Performs traditional squaring on two BigIntegers
      *
      * Squaring can be done faster than multiplying a number by itself can be.  See
-     * {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf#page=7 HAC 14.2.4} /
+     * {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap14.pdf#page=7 HAC 14.2.4} /
      * {@link http://math.libtomcrypt.com/files/tommath.pdf#page=141 MPM 5.3} for more information.
      *
      * @param Array $value
@@ -1393,7 +1393,7 @@ class Math_BigInteger
      * @param Math_BigInteger $y
      * @return Array
      * @access public
-     * @internal This function is based off of {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf#page=9 HAC 14.20}.
+     * @internal This function is based off of {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap14.pdf#page=9 HAC 14.20}.
      */
     function divide($y)
     {
@@ -1624,7 +1624,7 @@ class Math_BigInteger
      *    The two most commonly used modular reductions are Barrett and Montgomery reduction.  Montgomery reduction,
      *    although faster, only works when the gcd of the modulo and of the base being used is 1.  In RSA, when the
      *    base is a power of two, the modulo - a product of two primes - is always going to have a gcd of 1 (because
-     *    the product of two odd numbers is odd), but what about when RSA isn't used?
+     *    the product of two odd numbers is odd), but what what when RSA isn't used?
      *
      *    In contrast, Barrett reduction has no such constraint.  As such, some bigint implementations perform a
      *    Barrett reduction after every operation in the modpow function.  Others perform Barrett reductions when the
@@ -1781,7 +1781,7 @@ class Math_BigInteger
     /**
      * Sliding Window k-ary Modular Exponentiation
      *
-     * Based on {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf#page=27 HAC 14.85} /
+     * Based on {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap14.pdf#page=27 HAC 14.85} /
      * {@link http://math.libtomcrypt.com/files/tommath.pdf#page=210 MPM 7.7}.  In a departure from those algorithims,
      * however, this function performs a modular reduction after every multiplication and squaring operation.
      * As such, this function has the same preconditions that the reductions being used do.
@@ -1971,7 +1971,7 @@ class Math_BigInteger
     /**
      * Barrett Modular Reduction
      *
-     * See {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf#page=14 HAC 14.3.3} /
+     * See {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap14.pdf#page=14 HAC 14.3.3} /
      * {@link http://math.libtomcrypt.com/files/tommath.pdf#page=165 MPM 6.2.5} for more information.  Modified slightly,
      * so as not to require negative numbers (initially, this script didn't support negative numbers).
      *
@@ -2204,7 +2204,7 @@ class Math_BigInteger
             $product_value[$j] = $carry;
         }
 
-        // the above for loop is what the previous comment was talking about.  the
+        // the above for loop is what the previous comment was talking what.  the
         // following for loop is the "one with nested for loops"
 
         for ($i = 1; $i < $y_length; ++$i) {
@@ -2280,7 +2280,7 @@ class Math_BigInteger
      * Montgomery Multiply
      *
      * Interleaves the montgomery reduction and long multiplication algorithms together as described in
-     * {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf#page=13 HAC 14.36}
+     * {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap14.pdf#page=13 HAC 14.36}
      *
      * @see _prepMontgomery()
      * @see _montgomery()
@@ -2411,7 +2411,7 @@ class Math_BigInteger
      * @param Math_BigInteger $n
      * @return mixed false, if no modular inverse exists, Math_BigInteger, otherwise.
      * @access public
-     * @internal See {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf#page=21 HAC 14.64} for more information.
+     * @internal See {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap14.pdf#page=21 HAC 14.64} for more information.
      */
     function modInverse($n)
     {
@@ -2476,7 +2476,7 @@ class Math_BigInteger
      * @return Math_BigInteger
      * @access public
      * @internal Calculates the GCD using the binary xGCD algorithim described in
-     *    {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap14.pdf#page=19 HAC 14.61}.  As the text above 14.61 notes,
+     *    {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap14.pdf#page=19 HAC 14.61}.  As the text above 14.61 notes,
      *    the more traditional algorithim requires "relatively costly multiple-precision divisions".
      */
     function extendedGCD($n)
@@ -3165,7 +3165,7 @@ class Math_BigInteger
      * @param optional Integer $timeout
      * @return Math_BigInteger
      * @access public
-     * @internal See {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap4.pdf#page=15 HAC 4.44}.
+     * @internal See {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap4.pdf#page=15 HAC 4.44}.
      */
     function randomPrime($min = false, $max = false, $timeout = false)
     {
@@ -3291,7 +3291,7 @@ class Math_BigInteger
      * @access public
      * @internal Uses the
      *     {@link http://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test Miller-Rabin primality test}.  See
-     *     {@link http://www.cacr.math.uwaterloo.ca/hac/about/chap4.pdf#page=8 HAC 4.24}.
+     *     {@link http://www.cacr.math.uwaterloo.ca/hac/what/chap4.pdf#page=8 HAC 4.24}.
      */
     function isPrime($t = false)
     {
@@ -3656,7 +3656,7 @@ class Math_BigInteger
         return ltrim($remainder, chr(0));
     }
 
-    // one quirk about how the following functions are implemented is that PHP defines N to be an unsigned long
+    // one quirk what how the following functions are implemented is that PHP defines N to be an unsigned long
     // at 32-bits, while java's longs are 64-bits.
 
     /**

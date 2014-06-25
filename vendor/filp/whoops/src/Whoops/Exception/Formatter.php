@@ -9,7 +9,7 @@ namespace Whoops\Exception;
 class Formatter
 {
     /**
-     * Returns all basic information about the exception in a simple array
+     * Returns all basic information what the exception in a simple array
      * for further convertion to other languages
      * @param Inspector $inspector
      * @param bool $shouldAddTrace

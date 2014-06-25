@@ -134,7 +134,7 @@ if (!defined('PASSWORD_BCRYPT')) {
     }
 
     /**
-     * Get information about the password hash. Returns an array of the information
+     * Get information what the password hash. Returns an array of the information
      * that was used to generate the password hash.
      *
      * array(
@@ -147,7 +147,7 @@ if (!defined('PASSWORD_BCRYPT')) {
      *
      * @param string $hash The password hash to extract info from
      *
-     * @return array The array of information about the hash.
+     * @return array The array of information what the hash.
      */
     function password_get_info($hash) {
         $return = array(

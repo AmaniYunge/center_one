@@ -1,7 +1,9 @@
 <div class="contentArea">
 
     <div class="divPanel notop page-content">
-
+        <div class="breadcrumbs">
+            <a href="{{ url("/") }}">Home</a> &nbsp;/&nbsp; <span>What we do</span>
+        </div>
 
 
         <div class="row-fluid">
@@ -39,6 +41,6 @@
 
         </div>
 
-        <div id="footerInnerSeparator"></div>
+        <div id="footerInnerSeparator" class="what"></div>
     </div>
 </div>

@@ -415,8 +415,8 @@
         <div class="span12">
 
             <div id="divLogo">
-                <a href="#" id="divSiteTitle">Nkinga Health Center One</a><br />
-                <a href="#" id="divTagLine">Clean HTML5 Template..</a>
+                <a href="{{ url("/") }}" id="divSiteTitle">Nkinga Health Center</a><br />
+                <a href="{{ url("/") }}" id="divTagLine"><b>Visitor Email</b></a>
             </div>
 
         </div>
@@ -437,41 +437,55 @@
             <div id="headerSeparator"></div>
 
             <div class="row-fluid">
+                <div class="span6">
 
+                    <div id="divHeaderText" class="page-content">
+
+                        <div ><p><b>Visitor Name:&nbsp;&nbsp;</b><i>{{$name}}</i></p></div>
+                    </div>
+
+                </div>
             </div>
-
-            <div id="headerSeparator2"></div>
-
         </div>
     </div>
 
 </div>
-
 <div class="contentArea">
 
     <div class="divPanel notop page-content">
 
-
-
         <div class="row-fluid">
 
+            <div class="span12" id="divMain">
+                <p>
+                    <table>
+                    <tbody>
+                    <tr><th style="text-align: right">Email:&nbsp;&nbsp;</th><td>{{$email}}</td></tr>
+                    <tr><th style="text-align: right">Telephone:&nbsp;</th><td>{{$tel}}</td></tr>
+                    </tbody>
+                    </table>
+                </p>
 
+                <div class="row-fluid">
+                    <p>
+                            {{$description}}
+                    </p>
+                </div>
+
+            </div>
 
         </div>
 
         <div id="footerInnerSeparator"></div>
     </div>
 </div>
-
 <div id="footerOuterSeparator"></div>
-
 <div id="divFooter" class="footerArea">
-
     <div class="divPanel">
 
-        <div class="row-fluid">
-
-<br /><br /><br />
-
+    </div>
+</div>
+</div>
+<br />
 </body>
 </html>

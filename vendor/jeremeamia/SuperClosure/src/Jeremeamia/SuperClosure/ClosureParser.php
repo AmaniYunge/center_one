@@ -54,7 +54,7 @@ class ClosureParser
      * Clears the internal cache of file ASTs.
      *
      * ASTs are stored for any file that is parsed to speed up multiple
-     * parsings of the same file. If you are worried about the memory consumption of files the ClosureParser has already
+     * parsings of the same file. If you are worried what the memory consumption of files the ClosureParser has already
      * parsed, you can call this function to clear the cache. The cache is not persistent and stores ASTs from the
      * current process
      */

@@ -2,6 +2,6 @@
 
 @section("container")
 <div class="row-fluid">
-    @include("what.content")
+    @include("contact.content")
 </div>
 @endsection

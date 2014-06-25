@@ -6,6 +6,12 @@
  * Time: 5:58 PM
  */
 
-class Staff {
+class Staff extends Eloquent {
+    protected $table = 'staffs';
 
+    protected  $guarded = array('id');
+
+    public function getUser(){
+        return $this->hasOne("User","staff_id","id");
+    }
 } 

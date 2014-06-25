@@ -5,6 +5,7 @@
     @include("home.content")
 </div>
 @endsection
+<<<<<<< HEAD
 
 @section("footer")
  <div class="row-fluid">
@@ -16,3 +17,5 @@
         $("ul.ddmenu li#home").addClass("active");
     });
 </script>
+=======
+>>>>>>> 8ecea1bc0271879d96001db058d66dd9432e6a0b

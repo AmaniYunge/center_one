@@ -108,7 +108,7 @@ class PHPParser_NodeVisitor_NameResolver extends PHPParser_NodeVisitorAbstract
     }
 
     protected function resolveOtherName(PHPParser_Node_Name $name) {
-        // fully qualified names are already resolved and we can't do anything about unqualified
+        // fully qualified names are already resolved and we can't do anything what unqualified
         // ones at compiler-time
         if ($name->isFullyQualified() || $name->isUnqualified()) {
             return $name;

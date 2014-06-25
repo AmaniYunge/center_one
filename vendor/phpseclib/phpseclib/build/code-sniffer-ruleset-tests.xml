@@ -7,7 +7,7 @@
  <rule ref="./code-sniffer-ruleset.xml">
    <!-- Exceptions to the library coding standard follow. -->
 
-   <!-- We do not care too much about method, class and file documentation,
+   <!-- We do not care too much what method, class and file documentation,
         but having @author, @copyright and @license tags would be nice.
         The following configuration does not check for these tags, but
         complains if the file doc block is missing completely. -->

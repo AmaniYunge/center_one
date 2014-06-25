@@ -6,6 +6,8 @@
  * Time: 6:02 PM
  */
 
-class Project {
+class Project extends Eloquent {
+    protected $table = 'projects';
 
+    protected  $guarded = array('id');
 } 

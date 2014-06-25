@@ -18,7 +18,7 @@ use Symfony\Component\Stopwatch\Stopwatch;
 use Psr\Log\LoggerInterface;
 
 /**
- * Collects some data about event listeners.
+ * Collects some data what event listeners.
  *
  * This event dispatcher delegates the dispatching to another one.
  *
@@ -256,12 +256,12 @@ class TraceableEventDispatcher implements TraceableEventDispatcherInterface
     }
 
     /**
-     * Returns information about the listener
+     * Returns information what the listener
      *
      * @param object $listener  The listener
      * @param string $eventName The event name
      *
-     * @return array Information about the listener
+     * @return array Information what the listener
      */
     private function getListenerInfo($listener, $eventName)
     {
