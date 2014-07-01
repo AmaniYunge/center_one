@@ -77,14 +77,13 @@
         <div class="row-fluid">
             <div class="span12">
                 <p class="copyright">
-                    Copyright © 2013 Your Company. All Rights Reserved. Thanks to <a href="http://www.oswt.co.uk/">oswt</a>
+                    Copyright © 2014 Your Company. All Rights Reserved. Thanks to <a href="http://www.dophics.com/">Dophics</a>
                 </p>
 
                 <p class="social_bookmarks">
                     <a href="#"><i class="social foundicon-facebook"></i> Facebook</a>
                     <a href="https://twitter.com/oswt"><i class="social foundicon-twitter"></i> Twitter</a>
-                    <a href="#"><i class="social foundicon-pinterest"></i> Pinterest</a>
-                    <a href="#"><i class="social foundicon-rss"></i> Rss</a>
+                    <a href="#"><i class="social foundicon-google-plus"></i> Google+</a>
                 </p>
             </div>
         </div>

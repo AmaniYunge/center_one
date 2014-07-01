@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Easy Start - Welcome</title>
+    <title>Nkinga Health Center</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -34,8 +34,6 @@
     {{HTML::style('css/skeleton.css')}}
     {{HTML::style('css/screen.css')}}-->
     {{HTML::style('css/prettyPhoto.css')}}
-
-
 
     {{HTML::script('scripts/jquery-1.8.2.min.js')}}
     {{HTML::script('scripts/bootstrap/js/bootstrap.min.js')}}
@@ -114,8 +112,8 @@
             <div class="span12">
 
                 <div id="divLogo">
-                    <a href="{{ url("/") }}" id="divSiteTitle">Easy Start</a><br />
-                    <a href="{{ url("/") }}" id="divTagLine">Clean HTML5 Template..</a>
+                    <a href="{{ url("/") }}" id="divSiteTitle">Nkinga Health Center</a><br />
+                    <a href="{{ url("/") }}" id="divTagLine">Nkinga Hospital</a>
                 </div>
 
             </div>

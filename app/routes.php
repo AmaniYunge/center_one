@@ -26,7 +26,7 @@ Route::get('/who/staff',array('as'=>'staff', 'uses'=>'HomeController@staff'));
 Route::get('/project',array('as'=>'project', 'uses'=>'HomeController@project'));
 
 
-//////// projects routes
+//////// orportunity routes
 Route::get('/opportunity',array('as'=>'opportunity', 'uses'=>'HomeController@opportunity'));
 
 

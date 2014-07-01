@@ -7,7 +7,7 @@
             <div class="span6">
 
                 <div id="divHeaderText" class="page-content">
-                    <div id="divHeaderLine1">Header Text Here!</div><br />
+                    <div id="divHeaderLine1">Nkinga Health Center!</div><br />
                     <div id="divHeaderLine2">2nd Line Header Text for calling extra attention to featured content or information.</div><br />
                 </div>
 

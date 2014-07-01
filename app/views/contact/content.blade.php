@@ -55,7 +55,7 @@
                     <h3 class="sidebox-title">Title of the hospital here</h3>
                     <table class="">
                         <tbody>
-                        <tr><th style="text-align: right">Physical:</th><td>Tabora nking</td></tr>
+                        <tr><th style="text-align: right">Physical:</th><td>Tabora nkinga</td></tr>
                         <tr><th style="text-align: right">Phone:</th><td></td></tr>
                         <tr><th style="text-align: right">Box:</th><td></td></tr>
                         </tbody>
