@@ -55,6 +55,17 @@ class HomeController extends BaseController {
     public function opportunity()
         {
             return View::make('opportunity.index');
+
+        }
+        ////////// functions to handle opportunity
+    public function work()
+        {
+            return View::make('work.index');
+        }
+        ////////// functions to handle opportunity
+    public function donation()
+        {
+            return View::make('donation.index');
         }
 
     /////////////// functions to handle contacts

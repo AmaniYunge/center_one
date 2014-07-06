@@ -716,7 +716,7 @@ class MimeTypeExtensionGuesser implements ExtensionGuesserInterface
         'model/x3d+xml' => 'x3d',
         'text/cache-manifest' => 'appcache',
         'text/calendar' => 'ics',
-        'text/css' => 'css',
+        'text/style' => 'style',
         'text/csv' => 'csv',
         'text/html' => 'html',
         'text/n3' => 'n3',

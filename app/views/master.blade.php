@@ -47,6 +47,7 @@
     <script>
         $(document).ready(function(){
             //alert($("#footerInnerSeparator").html());
+
             $("ul li").each(function(){
                 $(this).removeClass("active");
             });//who_we
@@ -113,7 +114,12 @@
 
                 <div id="divLogo">
                     <a href="{{ url("/") }}" id="divSiteTitle">Mpera Health Centre</a><br />
+<<<<<<< HEAD
                     <h3<a href="{{ url("/") }}" id="divTagLine"></a>FPCT Health and Social welfare Department</h3>
+=======
+                    <a href="{{ url("/") }}" id="divTagLine">Kahama District, Tanzania
+                    </a>
+>>>>>>> 920fdaac16ce11dfc7f6aaa4450ec4ebda442a3c
                 </div>
 
             </div>

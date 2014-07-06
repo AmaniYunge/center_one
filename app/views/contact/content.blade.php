@@ -8,7 +8,7 @@
         <div class="row-fluid">
             <div class="span8" id="divMain">
                 <div class="row-fluid">
-                <h1>Simple</h1>
+                <h1>For Support</h1>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                     Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,
                     when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
@@ -63,7 +63,7 @@
                 </div>
 
                 <div class="sidebox">
-                    <iframe width="280" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.no/maps?f=q&amp;source=s_q&amp;hl=no&amp;geocode=&amp;q=Hafstadvegen+35,+F%C3%B8rde&amp;aq=0&amp;oq=hafstadvegen+35&amp;sll=61.143235,9.09668&amp;sspn=17.454113,57.084961&amp;ie=UTF8&amp;hq=&amp;hnear=Hafstadvegen+35,+6800+F%C3%B8rde,+Sogn+og+Fjordane&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=61.450253,5.859145&amp;output=embed"></iframe><br /><small><a href="http://maps.google.no/maps?f=q&amp;source=embed&amp;hl=no&amp;geocode=&amp;q=Hafstadvegen+35,+F%C3%B8rde&amp;aq=0&amp;oq=hafstadvegen+35&amp;sll=61.143235,9.09668&amp;sspn=17.454113,57.084961&amp;ie=UTF8&amp;hq=&amp;hnear=Hafstadvegen+35,+6800+F%C3%B8rde,+Sogn+og+Fjordane&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=61.450253,5.859145" style="color:#0000FF;text-align:left">Enlarge Map</a></small>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d508962.68235027394!2d32.85057626269321!3d-4.72292926308405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e6!4m5!1s0x19b6914171ae022b%3A0x76fb5f630d332fbb!2sTabora!3m2!1d-5.0166667!2d32.8!4m5!1s0x0%3A0x5374ad1b2a43c0a5!2sNkinga+Hospital!3m2!1d-4.426469!2d33.439!5e0!3m2!1sen!2s!4v1403675049508" width="280" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" frameborder="0" style="border:0"></iframe>
                 </div>
 
             </div>

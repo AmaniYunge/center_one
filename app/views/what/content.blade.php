@@ -10,30 +10,62 @@
 
             <div class="span12" id="divMain">
 
-                <h1>Welcome</h1>
-
-                <p>Content on this page is for presentation purposes only. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </p>
+                <h3>What we do in Mpera health centre</h3>
 
                 <br />
 
                 <div class="row-fluid">
                     <div class="span4">
-                        <h2>1/3 Column</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
+                        <h2 style="color:#BD0D00;">
+                            Curative Services
+                        </h2>
+                        <p>
+                            Patient attendance figures for both outpatient and
+                            inpatients wards were reasonable. This
+                            group of patients has since long been the
+                            major contributor of patient fees for running
+                            costs. Malaria and other respiratory diseases
+                            have been the major causes for patients
+                            attending to this institution. It can be noted
+                            also that, patients and the community at
+                            large still have more confidence on health
+                            services rendered by religious organization
+                            than public health facilities. This is because
+                            of good quality of service provided and
+                            commitments of our staff.
+                            Pictured:
+                            Women and Children waiting to be attended
+                            by a doctor.
+
+                        </p>
                     </div>
                     <div class="span4">
-                        <h2>1/3 Column</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
+                        <h2 style="color:#BD0D00;">
+                            Preventive Services
+                        </h2>
+                        <p>
+                            Reproductive health services continued well in 2008. Prevention of preventable
+                            diseases has remained one of our major goals. It the policy of the government for
+                            Mother and Child Health care to be provided free of charge. Thus services that were
+                            provided included immunization, child growth monitoring, antenatal care and
+                            family planning. A little fee is chargeable only for deliveries. As the major causes of
+                            deaths for mothers and children are associated with poor hygiene, ignorance,
+                            malnutrition, poor physical infrastructure, preventive services has great
+                            contribution to the reduction of maternal and infant mortality rates in the
+                            catchments area.
+                        </p>
                     </div>
                     <div class="span4">
-                        <h2>1/3 Column</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
+                        <h2 style="color:#BD0D00;">
+                            Supportive Services
+                        </h2>
+                        <p>
+                            Laboratory services continued well and busy during 2008. This service has served
+                            lives of many anemic patients especially children and pregnant woman. One
+                            laboratory staff (Mr. Benjamin Seka) is under training to become a laboratory
+                            technician. Even though, the institution has not funds to cover his training costs
+
+                        </p>
                     </div>
                 </div>
 
