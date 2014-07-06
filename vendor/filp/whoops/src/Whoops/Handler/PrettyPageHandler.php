@@ -28,7 +28,7 @@ class PrettyPageHandler extends Handler
     private $resourceCache = array();
 
     /**
-     * The name of the custom css file.
+     * The name of the custom style file.
      *
      * @var string
      */
@@ -115,7 +115,7 @@ class PrettyPageHandler extends Handler
         $helper = new TemplateHelper;
 
         $templateFile = $this->getResource("views/layout.html.php");
-        $cssFile      = $this->getResource("css/whoops.base.css");
+        $cssFile      = $this->getResource("style/whoops.base.style");
         $zeptoFile    = $this->getResource("js/zepto.min.js");
         $jsFile       = $this->getResource("js/whoops.base.js");
 
@@ -377,7 +377,7 @@ class PrettyPageHandler extends Handler
     }
 
     /**
-     * Adds a custom css file to be loaded.
+     * Adds a custom style file to be loaded.
      *
      * @param  string $name
      * @return void

@@ -17,7 +17,7 @@
         <span class="divider">/</span>
         <a href="#" class="bread-current">Admin</a>
         <span class="divider">/</span>
-        <a href="#" class="bread-current">Dashboard</a>
+        <a href="#" class="bread-current">Other staffs</a>
     </div>
     <div class="clearfix"></div>
 </div>

@@ -4,7 +4,7 @@
     {
         var cssLink = _document.createElement("link");
         cssLink.setAttribute("rel", "Stylesheet");
-        cssLink.setAttribute("type", "text/css");
+        cssLink.setAttribute("type", "text/style");
         cssLink.setAttribute("href", cssUrl);
         _document.getElementsByTagName("head")[0].appendChild(cssLink);
     },

@@ -47,6 +47,7 @@
     <script>
         $(document).ready(function(){
             //alert($("#footerInnerSeparator").html());
+
             $("ul li").each(function(){
                 $(this).removeClass("active");
             });//who_we
@@ -112,8 +113,9 @@
             <div class="span12">
 
                 <div id="divLogo">
-                    <a href="{{ url("/") }}" id="divSiteTitle">Nkinga Health Center</a><br />
-                    <a href="{{ url("/") }}" id="divTagLine">Nkinga Hospital</a>
+                    <a href="{{ url("/") }}" id="divSiteTitle">Mpera Health Center</a><br />
+                    <a href="{{ url("/") }}" id="divTagLine">Kahama District, Tanzania
+                    </a>
                 </div>
 
             </div>

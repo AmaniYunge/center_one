@@ -80,7 +80,7 @@ $.fn.wookmark = function(options) {
       }
 
   // Postion the item.
-  /*item.css({
+  /*item.style({
       position: 'absolute', 
       top: shortest + 'px',
       left: (shortestIndex * columnWidth + offset) + 'px'

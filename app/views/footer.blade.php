@@ -1,18 +1,33 @@
 <div id="divFooter" class="footerArea">
     <div class="divPanel">
-
+<style>
+    .filed-bold{
+        font-weight: bold;
+    }
+</style>
         <div class="row-fluid">
             <div class="span3" id="footerArea1">
 
-                <h3>About Company</h3>
+                <h3>About Health Center</h3>
 
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>
+
+                   <span class="field-bold" style="font-weight: bold;font-size:13px;"> Name of Institution:</span> Mpera Health Center</br>
+                   <span class="field-bold" style="font-weight: bold;font-size:13px;"> Type:</span> Faith Based Organisation (Non profit making organization)</br>
+                   <span class="field-bold" style="font-weight: bold;font-size:13px;"> Incharge:</span> Nashon Bakobwa – Clinical Officer</br>
+                   <span class="field-bold" style="font-weight: bold;font-size:13px;"> Location–Village/District/Region/Country:</span> Mpera, Kahama, Shinyanga, Tanzania</br>
+                   <span class="field-bold" style="font-weight: bold;font-size:13px;"> Distance from the District hospital:</span> 27km</br>
+                   <span class="field-bold" style="font-weight: bold;font-size:13px;"> Activities:</span> Provision of health care services to the poor and vulnerable communities in
+                    the remote areas</br>
+                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of staffs:</span> 16</br>
+                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of beds:</span> 35
+
 
                 <p>
                     <a href="#" title="Terms of Use">Terms of Use</a><br />
                     <a href="#" title="Privacy Policy">Privacy Policy</a><br />
                     <a href="#" title="FAQ">FAQ</a><br />
-                    <a href="#" title="Sitemap">Sitemap</a>
+                    <!--a href="http://maps.google.com/?ll=39.774769,-74.86084." title="Sitemap">Sitemap</a-->
+                    <a href="https://www.google.com/maps/place/Kahama/@-3.8253964,32.6015738,16z/data=!4m2!3m1!1s0x19c9a4e166eb891b:0x1685a8660fa3fded" title="Sitemap">Sitemap</a>
                 </p>
 
             </div>
@@ -75,18 +90,25 @@
 
         <br /><br />
         <div class="row-fluid">
-            <div class="span12">
-                <p class="copyright">
+            <div class="row-fluid">
+                <div class="row-fluid">
+                    <p class="copyright">
                     Copyright © 2014 Your Company. All Rights Reserved. Thanks to <a href="http://www.dophics.com/">Dophics</a>
-                </p>
-
-                <p class="social_bookmarks">
+                    </p>
+                </div>
+                <div class="row-fluid">
+                <div class="span10"><p class="social_bookmarks">
                     <a href="#"><i class="social foundicon-facebook"></i> Facebook</a>
                     <a href="https://twitter.com/oswt"><i class="social foundicon-twitter"></i> Twitter</a>
                     <a href="#"><i class="social foundicon-google-plus"></i> Google+</a>
                 </p>
+                </div>
+                <div class="span1">
+                    <a href="#myModal"  class="" data-toggle="modal"><h4><b>login</b></h4></a>
+                </div>
+                </div>
             </div>
-        </div>
 
+        </div>
     </div>
 </div>

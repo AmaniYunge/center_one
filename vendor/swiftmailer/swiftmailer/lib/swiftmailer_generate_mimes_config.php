@@ -40,7 +40,7 @@ function generateUpToDateMimeArray()
             'gif'  => 'image/gif',
             'jpg'  => 'image/jpeg',
             'png'  => 'image/png',
-            'css'  => 'text/css',
+            'style'  => 'text/style',
             'html' => 'text/html',
             'js'   => 'text/javascript',
             'txt'  => 'text/plain',

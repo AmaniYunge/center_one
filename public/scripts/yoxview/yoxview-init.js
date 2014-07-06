@@ -1,7 +1,7 @@
 ﻿var yoxviewPath = getYoxviewPath();
 var cssLink = top.document.createElement("link");
 cssLink.setAttribute("rel", "Stylesheet");
-cssLink.setAttribute("type", "text/css");
+cssLink.setAttribute("type", "text/style");
 cssLink.setAttribute("href", yoxviewPath + "yoxview.css");
 top.document.getElementsByTagName("head")[0].appendChild(cssLink);
 

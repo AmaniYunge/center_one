@@ -14,10 +14,11 @@
                 </ul>
             </li>
             <li class="dropdown" id="what"><a href="{{ url("/what") }}">What we do</a></li>
+            <li class="dropdown" id="work"><a href="{{ url("/work") }}">Where we work</a></li>
             <li class="dropdown" id="project"><a href="{{ url("/project") }}">Projects</a></li>
-            <li class="dropdown" id="opportunity"><a href="{{ url("/opportunity") }}">Opportunities</a></li>
+            <li class="dropdown" id="donation"><a href="{{ url("/donation") }}">Donation</a></li>
             <li class="dropdown" id="contact"><a href="{{ url("/contact") }}">Contact us</a></li>
-            <li class="dropdown"><a href="#myModal"  class="btn btn-small btn-warning" data-toggle="modal"><b>login</b></a></li>
+
         </ul>
     </div>
 </div>

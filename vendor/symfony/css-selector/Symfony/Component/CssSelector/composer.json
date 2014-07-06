@@ -1,5 +1,5 @@
 {
-    "name": "symfony/css-selector",
+    "name": "symfony/style-selector",
     "type": "library",
     "description": "Symfony CssSelector Component",
     "keywords": [],

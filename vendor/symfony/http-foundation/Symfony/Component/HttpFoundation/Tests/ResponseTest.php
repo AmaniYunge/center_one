@@ -385,12 +385,12 @@ class ResponseTest extends ResponseTestCase
     public function testContentTypeCharset()
     {
         $response = new Response();
-        $response->headers->set('Content-Type', 'text/css');
+        $response->headers->set('Content-Type', 'text/style');
 
         // force fixContentType() to be called
         $response->prepare(new Request());
 
-        $this->assertEquals('text/css; charset=UTF-8', $response->headers->get('Content-Type'));
+        $this->assertEquals('text/style; charset=UTF-8', $response->headers->get('Content-Type'));
     }
 
     public function testPrepareDoesNothingIfContentTypeIsSet()

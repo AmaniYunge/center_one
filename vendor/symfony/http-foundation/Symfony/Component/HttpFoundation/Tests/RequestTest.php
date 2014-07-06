@@ -331,7 +331,7 @@ class RequestTest extends \PHPUnit_Framework_TestCase
             array(null, array(null, 'unexistent-mime-type')),
             array('txt', array('text/plain')),
             array('js', array('application/javascript', 'application/x-javascript', 'text/javascript')),
-            array('css', array('text/css')),
+            array('style', array('text/style')),
             array('json', array('application/json', 'application/x-json')),
             array('xml', array('text/xml', 'application/xml', 'application/x-xml')),
             array('rdf', array('application/rdf+xml')),

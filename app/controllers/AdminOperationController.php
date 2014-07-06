@@ -6,6 +6,13 @@
  * Time: 4:11 PM
  */
 
-class AdminOperationController {
+class AdminOperationController extends BaseController {
 
+    public function listing($id){
+
+        return View::make("administrator.home.".$id);
+    }
+    public function form($id){
+        return View::make("administrator.home.".$id);
+    }
 } 
