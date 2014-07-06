@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
-    <title>Nkinga Health Center</title>
+    <title>Mpera Health Centre</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -112,8 +112,8 @@
             <div class="span12">
 
                 <div id="divLogo">
-                    <a href="{{ url("/") }}" id="divSiteTitle">Nkinga Health Center</a><br />
-                    <a href="{{ url("/") }}" id="divTagLine">Nkinga Hospital</a>
+                    <a href="{{ url("/") }}" id="divSiteTitle">Mpera Health Centre</a><br />
+                    <h3<a href="{{ url("/") }}" id="divTagLine"></a>FPCT Health and Social welfare Department</h3>
                 </div>
 
             </div>

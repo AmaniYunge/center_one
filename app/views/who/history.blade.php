@@ -10,11 +10,15 @@
 
             <div class="span12" id="divMain">
 
-                <h1>Welcome</h1>
+                <h1>History</h1>
 
-                <p>Content on this page is for presentation purposes only. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                <p>
+                    This institution was established by Swedish missionaries firstly a small dispensary.
+                    This kind of the social work within The Free Pentecostal Church in Tanzania (FPCT)
+                    was part and parcel of evangelism which already started in the 1930’s. </p><p>The
+                    institution is a respected health facility located in the eastern – southern part of
+                    Kahama district. Gradually it has developed and upgraded to become a Health
+                    Centre in July 1994.
                 </p>
 
                 <br />
