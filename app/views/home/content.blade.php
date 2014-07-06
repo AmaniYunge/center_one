@@ -7,7 +7,7 @@
             <div class="span6">
 
                 <div id="divHeaderText" class="page-content">
-                    <div id="divHeaderLine1">Mpera Health Center!</div><br />
+                    <div id="divHeaderLine1">Mpera Health Centre!</div><br />
                     <div id="divHeaderLine2">
                         Our focus is provision of health care services to the poor and vulnerable communities in
                         the remote areas

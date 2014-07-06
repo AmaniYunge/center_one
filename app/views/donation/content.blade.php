@@ -10,30 +10,39 @@
 
             <div class="span12" id="divMain">
 
-                <h1>Welcome</h1>
+                <h3>Donation</h3>
 
-                <p>Content on this page is for presentation purposes only. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                <p>
+                    FPCT has an open
+                    policy for supports from different
+                    organization and individuals when is
+                    comes for social services like health.
+                    As donor funding is uncertain, it has
+                    been very difficult to put into the
+                    annual
+                    budget.
+                    However,
+                    the
+                    institution received some funds from
+                    various donors for the supporting the
+                    health activities such Mr. Allan
+                    Burman. The institution also got a
+                    donation of a second hand generator
+                    from PMU Interlife in Sweden. The
+                    generator is very important not only
+                    for electricity supply but also for
+                    pumping water from borehole.
+
                 </p>
 
                 <br />
 
                 <div class="row-fluid">
                     <div class="span4">
-                        <h2>1/3 Column</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
                     </div>
                     <div class="span4">
-                        <h2>1/3 Column</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
                     </div>
                     <div class="span4">
-                        <h2>1/3 Column</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br /><a href="#">Read More &raquo;</a></p>
                     </div>
                 </div>
 
