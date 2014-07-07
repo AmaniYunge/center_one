@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
     <title>Mpera Health Centre</title>
@@ -114,6 +114,7 @@
 
                 <div id="divLogo">
                     <a href="{{ url("/") }}" id="divSiteTitle">Mpera Health Centre</a><br />
+                    <h3<a href="{{ url("/") }}" id="divTagLine"></a>FPCT Health and Social welfare Department</h3>
                     <a href="{{ url("/") }}" id="divTagLine">Kahama District, Tanzania
                     </a>
                 </div>

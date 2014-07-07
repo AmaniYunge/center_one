@@ -8,9 +8,9 @@
 
                 <div id="divHeaderText" class="page-content">
                     <div id="divHeaderLine1">Mpera Health Centre!</div><br />
-                    <div id="divHeaderLine2">
+                   <div id="divHeaderLine2">
                         Our focus is provision of health care services to the poor and vulnerable communities in
-                        the remote areas
+                        the remote areas...
                     </div><br />
                 </div>
 
