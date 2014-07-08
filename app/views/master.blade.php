@@ -115,8 +115,8 @@
                 <div id="divLogo">
                     <a href="{{ url("/") }}" id="divSiteTitle">Mpera Health Centre</a><br />
                     <h3<a href="{{ url("/") }}" id="divTagLine"></a>FPCT Health and Social welfare Department</h3>
-                    <a href="{{ url("/") }}" id="divTagLine">Kahama District, Tanzania
-                    </a>
+<!--                    <a href="{{ url("/") }}" id="divTagLine">Kahama District, Tanzania-->
+<!--                    </a>-->
                 </div>
 
             </div>

@@ -8,7 +8,7 @@
         <div class="row-fluid">
             <div class="span8" id="divMain">
                 <div class="row-fluid">
-                <h1>For Support</h1>
+                <h1>How To Reach Us</h1>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                     Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,
                     when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>

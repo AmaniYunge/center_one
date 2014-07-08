@@ -16,6 +16,8 @@
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Incharge:</span> Nashon Bakobwa – Clinical Officer</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Location–Village/District/Region/Country:</span> Mpera, Kahama, Shinyanga, Tanzania</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Distance from the District hospital:</span> 27km</br>
+                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of staffs:</span> 16</br>
+                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of beds:</span> 35
 
             </div>
             <div class="span3" id="footerArea2">
@@ -35,8 +37,7 @@
                 <h3>Activities</h3>
                 <p>Provision of health care services to the poor and vulnerable communities in
                 the remote areas</br>
-                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of staffs:</span> 16</br>
-                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of beds:</span> 35
+
                 </p>
 
 
