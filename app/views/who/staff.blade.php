@@ -9,8 +9,7 @@
         <div class="row-fluid">
 
             <div class="span12" id="divMain">
-
-                <h4>Staff Members</h4>
+                <h3>Administrative Staff</h3>
 
                 <p>
 
@@ -43,6 +42,7 @@
             </div>
 
         </div>
+        <h3>Other Staff Members</h3>
 
         <div id="footerInnerSeparator" class="staff"></div>
     </div>

@@ -16,6 +16,8 @@
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Incharge:</span> Nashon Bakobwa – Clinical Officer</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Location–Village/District/Region/Country:</span> Mpera, Kahama, Shinyanga, Tanzania</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Distance from the District hospital:</span> 27km</br>
+                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of staffs:</span> 16</br>
+                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of beds:</span> 35
 
             </div>
             <div class="span3" id="footerArea2">
@@ -35,17 +37,15 @@
                 <h3>Activities</h3>
                 <p>Provision of health care services to the poor and vulnerable communities in
                 the remote areas</br>
-                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of staffs:</span> 16</br>
-                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of beds:</span> 35
+
                 </p>
 
 
                 <p>
                     <a href="#" title="Terms of Use">Terms of Use</a><br />
                     <a href="#" title="Privacy Policy">Privacy Policy</a><br />
-                    <a href="#" title="FAQ">FAQ</a><br />
                     <!--a href="http://maps.google.com/?ll=39.774769,-74.86084." title="Sitemap">Sitemap</a-->
-                    <a href="https://www.google.com/maps/place/Kahama/@-3.8253964,32.6015738,16z/data=!4m2!3m1!1s0x19c9a4e166eb891b:0x1685a8660fa3fded" title="Sitemap">Sitemap</a>
+<!--                    <a href="https://www.google.com/maps/place/Kahama/@-3.8253964,32.6015738,16z/data=!4m2!3m1!1s0x19c9a4e166eb891b:0x1685a8660fa3fded" title="Sitemap">Sitemap</a>-->
                 </p>
 
             </div>
@@ -58,21 +58,21 @@
                         <i class="general foundicon-phone icon"></i>
                         <span class="field">Phone:</span>
                         <br />
-                        (123) 456 7890 / 456 7891
+                        +255 786 453 463
                     </li>
                     <li>
                         <i class="general foundicon-mail icon"></i>
                         <span class="field">Email:</span>
                         <br />
-                        <a href="mailto:info@yourdomain.com" title="Email">info@yourdomain.com</a>
+                        <a href="mailto:info@yourdomain.com" title="Email">info@mperahealtthcentre.com</a>
                     </li>
                     <li>
                         <i class="general foundicon-home icon" style="margin-bottom:50px"></i>
                         <span class="field">Address:</span>
                         <br />
-                        123 Street<br />
-                        12345 City, State<br />
-                        Country
+                        Mpera Viillage<br />
+                        Kahama District, Shinyanga<br />
+                        Tanzania
                     </li>
                 </ul>
 
@@ -84,7 +84,7 @@
             <div class="row-fluid">
                 <div class="row-fluid">
                     <p class="copyright">
-                    Copyright © 2014 Your Company. All Rights Reserved. Thanks to <a href="http://www.dophics.com/">Dophics</a>
+                    Copyright © 2014 . All Rights Reserved. Thanks to <a href="http://www.mperahealthcentre.org/">Mpera Health Centre</a>
                     </p>
                 </div>
                 <div class="row-fluid">
