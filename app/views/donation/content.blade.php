@@ -10,30 +10,17 @@
 
             <div class="span12" id="divMain">
 
-                <h3>Donation</h3>
+                <h3>Make a Contribution</h3>
 
                 <p>
-                    FPCT has an open
-                    policy for supports from different
-                    organization and individuals when is
-                    comes for social services like health.
-                    As donor funding is uncertain, it has
-                    been very difficult to put into the
-                    annual
-                    budget.
-                    However,
-                    the
-                    institution received some funds from
-                    various donors for the supporting the
-                    health activities such Mr. Allan
-                    Burman. The institution also got a
-                    donation of a second hand generator
-                    from PMU Interlife in Sweden. The
-                    generator is very important not only
-                    for electricity supply but also for
-                    pumping water from borehole.
-
-                </p>
+                    FPCT has an open policy for supports from different organizations and individuals when it comes for social services
+                    like health. In order to carry out our work smoothly, we need to have regular supply of essential drugs and medical
+                    consumables, medical equipments etc. Your contribution of just 1USD/10SEK/Tshs 2,000 can make a difference in the
+                    health status of the poor and most vulnerable group in the communities we serve! You may also get involved in our
+                    work by praying for us.
+                </p><p><i> If you would like to support our work whether in cash or kind, you can send us an email for
+                        further correspondences. Also, please include your return mailing address so we can provide you with a thank you letter.
+                    </i> </p>
 
                 <br />
 

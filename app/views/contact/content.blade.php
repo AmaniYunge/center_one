@@ -52,12 +52,12 @@
             <div class="span4 sidebar">
 
                 <div class="sidebox">
-                    <h3 class="sidebox-title">Title of the hospital here</h3>
+                    <h3 class="sidebox-title">Mpera Health Center</h3>
                     <table class="">
                         <tbody>
                         <tr><th style="text-align: right">Physical:</th><td>Tabora nkinga</td></tr>
-                        <tr><th style="text-align: right">Phone:</th><td></td></tr>
-                        <tr><th style="text-align: right">Box:</th><td></td></tr>
+                        <tr><th style="text-align: right">Phone:</th><td>+255 786 453 463<b/>+255 767 453 463</td></tr>
+                        <tr><th style="text-align: right">Box:</th><td>25 Kahama,Tanzania</td></tr>
                         </tbody>
                     </table>
                 </div>

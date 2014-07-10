@@ -11,6 +11,11 @@
                             <h3>Where we work</h3>
 
                             <p>
+                                Mpera Health Centre is located in Mpera Village, Isagehe Ward, Kahama District.
+                                The institution serves communities coming from several villages in Kahama and Nzega Districts.
+                                Some of the villages are: Kidunyashi (3km), Isagehe (3km), Kagongwa (7.5km), Iyenze (15km),
+                                Isalenge (21km), Mwanzilwo(4km), Isaka (28km), Labukande (50km), Kizungu (40km), Mwankuba (22km),
+                                Mwakuhenga (26km), Bumbiti (7km), Igusule (12km), Bukooba (8km) etc.
                             </p>
 
                             <br />

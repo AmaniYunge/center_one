@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-
-    {{HTML::style('scripts/bootstrap/css/bootstrap.min.css')}}
-    {{HTML::style('scripts/bootstrap/css/bootstrap-responsive.min.css')}}
+    <link rel="stylesheet" href="{{ URL::asset('scripts/icons/general/stylesheets/general_foundicons.cs') }}">
+    <link rel="stylesheet" href="{{ URL::asset('scripts/bootstrap/css/bootstrap.min.css')}}">
+   <link rel="stylesheet" href="{{ URL::asset('scripts/bootstrap/css/bootstrap-responsive.min.css')}}">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -17,16 +17,16 @@
     <![endif]-->
 
     <!-- Icons -->
-    {{HTML::style('scripts/icons/general/stylesheets/general_foundicons.css')}}
-    {{HTML::style('scripts/icons/social/stylesheets/social_foundicons.css')}}
+   <link rel="stylesheet" href="{{ URL::asset('scripts/icons/general/stylesheets/general_foundicons.css')}}">
+  <link rel="stylesheet" href="{{ URL::asset('scripts/icons/social/stylesheets/social_foundicons.css')}}">
     <!--[if lt IE 8]>
-    {{HTML::style('scripts/icons/general/stylesheets/general_foundicons_ie7.css')}}
-    {{HTML::style('scripts/icons/social/stylesheets/social_foundicons_ie7.css')}}
+    <link rel="stylesheet" href="{{ URL::asset('scripts/icons/general/stylesheets/general_foundicons_ie7.css')}}">
+   <link rel="stylesheet" href="{{ URL::asset('scripts/icons/social/stylesheets/social_foundicons_ie7.css')}}">
     <![endif]-->
 
-    {{HTML::style('scripts/camera/css/camera.css')}}
-    {{HTML::style('css/googlestyles.css')}}
-    {{HTML::style('styles/custom.css')}}
+    <link rel="stylesheet" href="{{ URL::asset('scripts/camera/css/camera.css')}}">
+    <link rel="stylesheet" href="{{ URL::asset('css/googlestyles.css')}}">
+    <link rel="stylesheet" href="{{ URL::asset('styles/custom.css')}}">
 
 
     <!-- styles specifically for products

@@ -19,29 +19,55 @@
 
 
                 <div class="row-fluid">
-                    <div class="span3">
-                        <h2>project 1</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Project one description.<br /><a href="#">Read More &raquo;</a></p>
-                    </div>
-                    <div class="span3">
-                        <h2>project 2</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Project two description<br /><a href="#">Read More &raquo;</a></p>
+                    <div class="span4">
+                        <h2>Construction of theatre</h2>
+                        </div>
+                            <div class="span4">
+                                <h2>Construction of a laboratory building</h2>
+                            </div>
+                            <div class="span4">
+                                <h2>project 3</h2>
+                            </div>
                     </div>
 
-                    <div class="span3">
-                        <h2>project 3</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Project three description<br /><a href="#">Read More &raquo;</a></p>
-                    </div>
-                    <div class="span3">
-                        <h2>project 4</h2>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
-                        <p>Project four description.<br /><a href="#">Read More &raquo;</a></p>
-                    </div>
+                    <div class="row-fluid">
+                            <div class="span4">
+                                <img src="{{asset('images/constr.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px;">
+
+                            </div>
+
+                    <div class="span4">
+                        <img src="{{asset('images/lab.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px;">
+                         </div>
+
+                    <div class="span4">
+                        <img src="{{asset('images/constr.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px;">
+                       </div>
+
                 </div>
 
+                <div class="row-fluid">
+                    <div class="span4">
+                        <p> We are planning to start construction of a theatre very soon for performing emergency and planned surgeries.
+                            The major purpose of this project is to bring surgery services closer to the community. At present,
+                            patients are referred to Kahama District hospital which is about 27 kms away from Mpera.
+                            With this distance and available poor infrastructures, becomes difficult to refer patients on time requiring
+                            emergency surgery services such as pregnant mothers.  Discussions with our development partner –
+                            Tenhult Pentecostal Church in Sweden is going on for a possibility to support the project in construction of a theatre.
+                            Recently, Mr. Peter Raphael, our Administrative and Projects Manager held a discussion with the Mission Council of Tenhult
+                            Church when he visited Sweden</p>
+                    </div>
+                    <div class="span4">
+                        <p>The current building does not have enough rooms as per new guidelines laid down by Ministry of Health.
+                            To meet the minimum standard, a laboratory Building should have at least rooms for Reception, Pathology,
+                            Biochemistry, Sluice Room, Hematology and Blood Transfusion.</p>
+                    </div>
+
+                    <div class="span4">
+                        <p>Project three description</p>
+                    </div>
+
+                </div>
             </div>
 
         </div>

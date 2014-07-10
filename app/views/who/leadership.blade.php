@@ -29,9 +29,9 @@
                 <div class="row-fluid">
                     <div class="span3">
                         <h4>
-                            Chairman
+                            Board Chair
                         </h4>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
+                        <img src="{{asset('images/elias.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Rev. Elias Mageni
                         </p>
@@ -40,7 +40,7 @@
                         <h4>
                             Secretary
                         </h4>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
+                        <img src="{{asset('images/secretary.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Nashon Bakobwa
 
@@ -50,7 +50,7 @@
                         <h4>
                             Administrative & Projects Manager
                         </h4>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
+                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Mr. Peter Raphael
                         </p>
@@ -59,7 +59,7 @@
                         <h4>
                             Member
                         </h4>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
+                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid"style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Mrs. Anna Ngeni
                         </p>
@@ -70,7 +70,7 @@
                         <h4>
                             Member
                         </h4>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
+                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Rev. Elias Mihambo
                         </p>
@@ -79,7 +79,7 @@
                         <h4>
                             Workers representative
                         </h4>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
+                        <img src="{{asset('images/lameck.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Mr. Lameck Mathew
 
@@ -88,7 +88,7 @@
                     <div class="span3">
                         <h4>Member
                         </h4>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
+                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Mrs. Grace Nathan
                         </p>
@@ -96,7 +96,7 @@
                     <div class="span3">
                         <h4>Member
                         </h4>
-                        <img src="http://placehold.it/150x90/e7e7e7" class="img-polaroid" style="margin:5px 0px 15px;">
+                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Mrs. Grace Nathan
                         </p>

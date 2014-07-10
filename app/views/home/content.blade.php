@@ -18,6 +18,15 @@
             <div class="span6">
 
                 <div id="camera_wrap">
+                    <div data-src="styles/partinership.jpeg" >
+                        <div class="camera_caption fadeFromBottom cap1">
+                            In picture: Sign board – The mutual relationship between FPCT and Swedish churches has existed for some
+                            decades now. This relationship is symbolized by drawings of the flags of the two nations – Sweden and
+                            Tanzania as indicated on the sign board.
+
+                        </div>
+                    </div>
+
                     <div data-src="styles/finance.jpeg" >
                         <div style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;" class="fadeIn camera_effected camera_caption cap1">
                             In Picture: Ms. Triza Maghulizi who assists with bookkeeping work for MHC
@@ -32,14 +41,17 @@
 
                         </div>
                     </div>
-                    <div data-src="styles/partinership.jpeg" >
-                        <div class="camera_caption fadeFromBottom cap1">
-                            In picture: Sign board – The mutual relationship between FPCT and Swedish churches has existed for some
-                            decades now. This relationship is symbolized by drawings of the flags of the two nations – Sweden and
-                            Tanzania as indicated on the sign board.
+                    <div data-src="styles/partiners" >
+                        <div class="camera_caption fadeFromBottom cap2">
+                            In picture: Our partiners from Sweden together with Mr Peter Raphael (Administrative & Project Manager)
 
                         </div>
+                    <div data-src="styles/nurse.jpg" >
+                        <div class="camera_caption fadeFromBottom cap2">
+                            In Picture: A nurse Reviewing patient records.
+                        </div>
                     </div>
+
                     <div data-src="styles/mpera.jpeg" >
                         <div class="camera_caption fadeFromBottom cap2">
                             In picture: Patients waiting to be attended by a doctor
@@ -50,6 +62,12 @@
                         <div class="camera_caption camera-effected fadeFromBottom cap1" style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;">
                             In picture: Some of MHC staff working in the maternity ward.
 
+                        </div>
+                    </div>
+
+                    <div data-src="styles/doctor.jpg" >
+                        <div class="camera_caption fadeFromBottom cap2">
+                            In Picture: A doctor and a nurse during ward round work
                         </div>
                     </div>
                 </div>
@@ -75,52 +93,82 @@
 
                 <h1>Welcome</h1>
 
-                <p>This institution was established by Swedish missionaries firstly a small dispensary.
-                    This kind of the social work within The Free Pentecostal Church in Tanzania (FPCT)
-                    was part and parcel of evangelism which already started in the 1930’s. Gradually it
-                    has developed and upgraded to become a Health Centre in July 1994. Mpera
-                    serves immediate areas consisting villages of Mpera, Kidunyashi, Isagehe (3 km),
-                    Bukooba (6km), and Kagongwa(7km). Other distant villages include Iyenze (17km),
-                    Mwanzwilo (14km) and Isalenge (21km).
-
-                </p>
+                <p>Mpera Health Centre is a faith based/not for profit making organization dedicated to working with local
+                    government and to bring health care services to the most vulnerable communities in the catchment and
+                    services areas.  Poor health is considered to one of the hindrance for socio-economic development in any
+                    society and the government welcomes the participation of various faith based organizations in improving
+                    the health status of the communities. </p>
                 <a href="{{ url("/opportunity") }}">Opportunities</a>
 
                 <br />
 
                 <div class="row-fluid">
-                    <div class="span4">
-                        <h2 style="color:#BD0D00;">Curative Services
-                        </h2>
 
-                        <img src="images/curative.jpg" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
-                        <p>
-                            Patient attendance figures for both outpatient and
-                            inpatients wards were reasonable. This
-                            group of patients has since long been the
-                            major contributor of patient fees for running costs...
-                            <br /><a href="#">Read More &raquo;</a></p>
+                    <div class="span4">
+                        <h2 style="color:#BD0D00;">
+                            Curative Services
+                        </h2>
                     </div>
                     <div class="span4">
-                        <h2 style="color:#BD0D00;">Preventive Services
+                        <h2 style="color:#BD0D00;">
+                            Preventive Services
                         </h2>
-                        <img src="images/preventive.jpg" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
-                        <p>
-                            Reproductive health services continued well in 2008. Prevention of preventable
-                            diseases has remained one of our major goals. It the policy of the government for
-                            Mother and Child Health care to be provided free of charge...
-                            <br /><a href="#">Read More &raquo;</a></p>
                     </div>
                     <div class="span4">
-                        <h2 style="color:#BD0D00;">Supportive Services
+                        <h2 style="color:#BD0D00;">
+                            Supportive  and Specialized Services
                         </h2>
-                        <img src="images/supportive.jpg" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
-                        <p>
-                            Laboratory services continued well and busy during 2008. This service has served
-                            lives of many anemic patients especially children and pregnant woman.
-                            <br /><a href="#">Read More &raquo;</a></p>
                     </div>
                 </div>
+
+                <div class="row-fluid">
+                    <div class="span4">
+                        <img src="{{asset('images/curative.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                    </div>
+                    <div class="span4">
+                        <img src="{{asset('images/preventive.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                    </div>
+                    <div class="span4">
+                        <img src="{{asset('images/supportive.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                    </div>
+                </div>
+
+                <div class="row-fluid">
+                    <div class="span4">
+                        <h4>outpatient and inpatient</h4>
+                        <p>These are open from Monday to Friday as normal working days but Saturdays,
+                            Sundays and Public Holidays are also open to handle emergencies cases. Outpatient services is the first reception
+                            point where patients are seen before are sent to other departments
+                        </p>
+                    </div>
+
+                    <div class="span4">
+                        <h4> Reproductive services</h4>
+                        <p> It is one of our major goals and ultimately contributing to achievement of the Millennium Development Goals (MDGs) –
+                            improving maternal and child health. Static services at facilities are supported by mobile clinic in the communities.</p>
+                    </div>
+
+                    <div class="span4">
+                        <h4> Laboratory Services:</h4>
+                        <p> Laboratory examinations are carried out as daily routines in order to provide the patients with right treatment.
+                            The laboratory tests performed ranges from basic microscopy to hematological tests. As services continue to be
+                            upgraded, introducing more tests is highly needed as well.</p>
+
+                    </div>
+                </div>
+                <div class="row-fluid">
+                    <div class="span4">
+                        <a href="{{ url("/what") }}">Read More</a>
+                        </div>
+
+                    <div class="span4">
+                        <a href="{{ url("/what") }}">Read More</a>
+                    </div>
+
+                    <div class="span4">
+                        <a href="{{ url("/what") }}">Read More</a>
+                    </div>
+                    </div>
 
             </div>
 

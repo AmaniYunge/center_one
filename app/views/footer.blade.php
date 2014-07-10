@@ -13,7 +13,7 @@
 
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Name of Institution:</span> Mpera Health Centre</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Type:</span> Faith Based Organisation (Non profit making organization)</br>
-                   <span class="field-bold" style="font-weight: bold;font-size:13px;"> Incharge:</span> Nashon Bakobwa – Clinical Officer</br>
+                   <span class="field-bold" style="font-weight: bold;font-size:13px;"> Incharge:</span> Nashon Bakobwa –Doctor Incharge</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Location–Village/District/Region/Country:</span> Mpera, Kahama, Shinyanga, Tanzania</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Distance from the District hospital:</span> 27km</br>
                 <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of staffs:</span> 16</br>
@@ -25,10 +25,11 @@
                 <h3>Recently Ongoing Projects</h3>
                 <p>
                     <a href="#" title="">Project</a><br />
-                    <span style="text-transform:none;">project one</span>
+                    <span style="text-transform:none;">Construction of theatre</span><br/>
+                    <span style="text-transform:none;">Construction of a laboratory building</span>
                 </p>
                                <p>
-                    <a href="#" title="">VIEW ALL PROJECTS</a>
+                    <a href="{{url("/projects")}}" title="">VIEW ALL PROJECTS</a>
                 </p>
 
             </div>
@@ -58,7 +59,9 @@
                         <i class="general foundicon-phone icon"></i>
                         <span class="field">Phone:</span>
                         <br />
-                        +255 786 453 463
+                        +255 786 453 463<br/>
+                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +255 767 453 463
+
                     </li>
                     <li>
                         <i class="general foundicon-mail icon"></i>
@@ -71,6 +74,7 @@
                         <span class="field">Address:</span>
                         <br />
                         Mpera Viillage<br />
+                        P.O Box 25<br />
                         Kahama District, Shinyanga<br />
                         Tanzania
                     </li>
