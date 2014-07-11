@@ -35,24 +35,36 @@
                         <p>
                             Rev. Elias Mageni
                         </p>
+                        <p style="color: red">
+                            Senior Pastor<br/>
+                           FPCT Mpera Mission
+                        </p>
+
                     </div>
                     <div class="span3">
                         <h4>
-                            Secretary
+                           Board Secretary
                         </h4>
                         <img src="{{asset('images/secretary.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Nashon Bakobwa
 
                         </p>
+                        <p style="color: red">
+                            Doctor<br/>
+                            Mpera Health Centre
+                        </p>
                     </div>
                     <div class="span3">
                         <h4>
-                            Administrative & Projects Manager
+                           Invited Member
                         </h4>
                         <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Mr. Peter Raphael
+                        </p>
+                        <p style="color: red">
+                            Administrative & Projects Manager
                         </p>
                     </div>
                     <div class="span3">
@@ -61,7 +73,11 @@
                         </h4>
                         <img src="{{asset('images/peter.jpg')}}" class="img-polaroid"style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
-                            Mrs. Anna Ngeni
+                            Ms. Anna Ngeni
+                        </p>
+                        <p style="color: red">
+                            Community Representative<br/>
+                            Mpera Health Centre
                         </p>
                     </div>
                 </div>
@@ -74,23 +90,23 @@
                         <p>
                             Rev. Elias Mihambo
                         </p>
+                        <p style="color: red">
+                            Pastor<br/>
+                           FPCT Isaka Mission
+                        </p>
                     </div>
                     <div class="span3">
                         <h4>
-                            Workers representative
+                            Member
                         </h4>
                         <img src="{{asset('images/lameck.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Mr. Lameck Mathew
 
                         </p>
-                    </div>
-                    <div class="span3">
-                        <h4>Member
-                        </h4>
-                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
-                        <p>
-                            Mrs. Grace Nathan
+                        <p style="color: red">
+                            Workers representative<br/>
+                            Mpera Health Centre
                         </p>
                     </div>
                     <div class="span3">
@@ -98,9 +114,21 @@
                         </h4>
                         <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
-                            Mrs. Grace Nathan
+                            Ms. Grace Nathan
+                        </p>
+                        <p style="color: red">
+                            Matron<br/>
+                            Mpera Health Centre
                         </p>
                     </div>
+<!--                    <div class="span3">-->
+<!--                        <h4>Member-->
+<!--                        </h4>-->
+<!--                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">-->
+<!--                        <p>-->
+<!--                            Mrs. Grace Nathan-->
+<!--                        </p>-->
+<!--                    </div>-->
                 </div>
 
             </div>

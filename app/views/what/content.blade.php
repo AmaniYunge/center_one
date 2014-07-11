@@ -81,8 +81,8 @@
                             dental surgeon.</p>
 
                         <h4>Eye Services</h4>
-                        <p>Through scheduled outreach services, a team of dental surgeon and ophthalmologists regularly come to provide
-                            eye health services.</p>
+                        <p>Through scheduled outreach services, a team comprising of eye surgeon and ophthalmologists  from Nkinga Hospital regularly come to provide
+                           comprehensive eye health services.</p>
                         </p>
                     </div>
                     </div>

@@ -22,11 +22,11 @@
             </div>
             <div class="span3" id="footerArea2">
 
-                <h3>Recently Ongoing Projects</h3>
+                <h3>Projects</h3>
                 <p>
                     <a href="#" title="">Project</a><br />
-                    <span style="text-transform:none;">Construction of theatre</span><br/>
-                    <span style="text-transform:none;">Construction of a laboratory building</span>
+                    <span style="text-transform:none;">Construction of theatre building</span><br/>
+                    <span style="text-transform:none;">Construction of  laboratory building</span>
                 </p>
                                <p>
                     <a href="{{url("/projects")}}" title="">VIEW ALL PROJECTS</a>
@@ -73,10 +73,9 @@
                         <i class="general foundicon-home icon" style="margin-bottom:50px"></i>
                         <span class="field">Address:</span>
                         <br />
-                        Mpera Viillage<br />
+                        Mpera Health Centre<br />
                         P.O Box 25<br />
-                        Kahama District, Shinyanga<br />
-                        Tanzania
+                        Kahama District,Tanzania
                     </li>
                 </ul>
 

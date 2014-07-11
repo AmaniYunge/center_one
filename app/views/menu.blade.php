@@ -15,9 +15,9 @@
             </li>
             <li class="dropdown" id="what"><a href="{{ url("/what") }}">What we do</a></li>
             <li class="dropdown" id="work"><a href="{{ url("/work") }}">Where we work</a></li>
-            <li class="dropdown" id="project"><a href="{{ url("/project") }}">Projects</a></li>
-            <li class="dropdown" id="donation"><a href="{{ url("/donation") }}">Support</a></li>
-            <li class="dropdown" id="contact"><a href="{{ url("/contact") }}">Contact us</a></li>
+            <li class="dropdown" id="project"><a href="{{ url("/project") }}">Our Projects</a></li>
+            <li class="dropdown" id="donation"><a href="{{ url("/donation") }}">Support Us</a></li>
+            <li class="dropdown" id="contact"><a href="{{ url("/contact") }}">Contact Us</a></li>
 
         </ul>
     </div>

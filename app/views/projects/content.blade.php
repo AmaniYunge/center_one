@@ -20,13 +20,13 @@
 
                 <div class="row-fluid">
                     <div class="span4">
-                        <h2>Construction of theatre</h2>
+                        <h2>Construction of theatre building</h2>
                         </div>
                             <div class="span4">
-                                <h2>Construction of a laboratory building</h2>
+                                <h2>Construction of  laboratory building</h2>
                             </div>
                             <div class="span4">
-                                <h2>project 3</h2>
+                                <h2>Construction Of Children Ward</h2>
                             </div>
                     </div>
 
@@ -64,7 +64,12 @@
                     </div>
 
                     <div class="span4">
-                        <p>Project three description</p>
+                        <p>
+                            The building was accomplished successfully under donation from Kahama Areas
+                            Development Program/World Vision. The  building comprises of 4 rooms with
+                            capacity of 8 beds each. In total, the ward requires 32 beds and mattresses. The
+                            estimated budget for purchasing beds and  mattress is Tzs. 4,800,000 (SEK 30,000)
+                        </p>
                     </div>
 
                 </div>
