@@ -71,7 +71,7 @@
                         <h4>
                             Member
                         </h4>
-                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid"style="margin:5px 0px 15px; height: 200px; width: 300px">
+                        <img src="{{asset('images/pe.jpg')}}" class="img-polaroid"style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Ms. Anna Ngeni
                         </p>
@@ -112,7 +112,7 @@
                     <div class="span3">
                         <h4>Member
                         </h4>
-                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                        <img src="{{asset('images/pet.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Ms. Grace Nathan
                         </p>
