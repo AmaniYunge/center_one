@@ -311,8 +311,20 @@ h6,.page-content h6 a{font-weight: normal; font-style: normal; ;font-family: Ter
     #divHeaderText {margin:0px;padding:10px 0px;}
    
     #divHeaderLine1 {margin-top: 0px;}
-     
-    
+
+   /*#divSlimscrollDiv {*/
+        /*position: relative;*/
+        /*overflow: hidden;*/
+        /*width: auto;*/
+        /*height: 210px;*/
+    /*}*/
+    /*#divInner-div {*/
+        /*overflow: hidden;*/
+        /*width: auto;*/
+        /*height: 210px;*/
+    /*}*/
+
+
     #divMenuRight {width:100%;margin-top: 0px;padding-top:0px}
 
     .ddmenu, .navbar .ddmenu {margin-top: 0px; margin-bottom: 0px;}

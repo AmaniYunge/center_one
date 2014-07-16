@@ -9,9 +9,8 @@
             <div class="span8" id="divMain">
                 <div class="row-fluid">
                 <h1>How To Reach Us</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>You might be touched with our work and willing to join us through your generous
+                    financial or material and moral support.  Please do not hesitate to contact us..</p>
                 </div>
                 <div class="row-fluid">
                     <h3>Email</h3>

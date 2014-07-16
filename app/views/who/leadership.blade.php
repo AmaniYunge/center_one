@@ -86,7 +86,7 @@
                         <h4>
                             Member
                         </h4>
-                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                        <img src="{{asset('images/petr.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Rev. Elias Mihambo
                         </p>

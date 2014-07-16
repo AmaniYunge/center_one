@@ -35,10 +35,11 @@
     {{HTML::style('css/screen.css')}}-->
     {{HTML::style('css/prettyPhoto.css')}}
 
+<!--    {{HTML::script('scripts/jquery-1.8.2.min.js')}}-->
     {{HTML::script('scripts/jquery-1.8.2.min.js')}}
     {{HTML::script('scripts/bootstrap/js/bootstrap.min.js')}}
     {{HTML::script('scripts/default.js')}}
-
+    {{HTML::script('scripts/jquery.slimscroll.min.js')}}
     {{HTML::script('scripts/camera/scripts/camera.min.js')}}
     {{HTML::script('scripts/easing/jquery.easing.1.3.js')}}
     {{HTML::script('scripts/camera/scripts/jquery.mobile.customized.min.js')}}

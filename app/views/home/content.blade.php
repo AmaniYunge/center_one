@@ -41,11 +41,12 @@
 
                         </div>
                     </div>
-                    <div data-src="styles/partiners" >
+                    <div data-src="styles/partiners.jpg" >
                         <div class="camera_caption fadeFromBottom cap2">
-                            In picture: Our partiners from Sweden together with Mr Peter Raphael (Administrative & Project Manager)
+                            In picture: Our partners from Sweden together with Mr Peter Raphael (Administrative & Project Manager)
 
                         </div>
+                    </div>
                     <div data-src="styles/nurse.jpg" >
                         <div class="camera_caption fadeFromBottom cap2">
                             In Picture: A nurse Reviewing patient records.
@@ -90,17 +91,45 @@
         <div class="row-fluid">
 
             <div class="span12" id="divMain">
-
-                <h1>Welcome</h1>
+               <div class="span10">
+                <h2 style="color: #843534">Welcome</h2>
 
                 <p>Mpera Health Centre is a faith based/not for profit making organization dedicated to working with local
                     government and to bring health care services to the most vulnerable communities in the catchment and
                     services areas.  Poor health is considered to one of the hindrance for socio-economic development in any
                     society and the government welcomes the participation of various faith based organizations in improving
-                    the health status of the communities. </p>
+                    the health status of the communities.</p>
+
                 <a href="{{ url("/opportunity") }}">Opportunities</a>
 
                 <br />
+                </div>
+
+            <div class="span2"><br><br>
+                <div class="inner-div">
+                    <h2 style="text-align: center;color: #843534">Latest News</h2>
+                    <h4>News Heading</h4>
+                    <p>
+                        Dotphics is my latest <span class="red">responsive</span> Site Template freebie.
+                        Dotphics Template is simple and clean template with a lot attention to detail.
+                        It is suitable for a lot of <span class="green">different</span> business and private uses.
+                    </p>
+                    <hr>
+                    <h4>News Heading</h4>
+                    <p>
+                        Dotphics is my latest <span class="red">responsive</span> Site Template freebie.
+                        Dotphics Template is simple and clean template with a lot attention to detail.
+                        It is suitable for a lot of <span class="green">different</span> business and private uses.
+                    </p>
+                </div>
+                <script>
+                    $(function(){
+                        $('.inner-div').slimScroll({
+                            height: '150px'
+                        });
+                    });
+                </script>
+            </div>
 
                 <div class="row-fluid">
 

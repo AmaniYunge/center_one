@@ -10,7 +10,7 @@
 
             <div class="span12" id="divMain">
 
-                <h3>Make a Contribution</h3>
+               1bution</h3>
 
                 <p>
                     FPCT has an open policy for supports from different organizations and individuals when it comes for social services
