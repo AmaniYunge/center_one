@@ -1,190 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b5719fd-f7c2-4e06-aa7e-3ae2c844b7a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/administrator/assets/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/android.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/android.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/chrome.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/chrome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/constr.jpg" afterPath="$PROJECT_DIR$/public/images/constr.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/curative.jpg" afterPath="$PROJECT_DIR$/public/images/curative.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/doctor.jpg" afterPath="$PROJECT_DIR$/public/styles/doctor.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/elias.jpg" afterPath="$PROJECT_DIR$/public/images/elias.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/finance.jpeg" afterPath="$PROJECT_DIR$/public/styles/finance.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/firefox.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/firefox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/governance.jpeg" afterPath="$PROJECT_DIR$/public/styles/governance.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/ie.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/ie.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/ios.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/ios.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/j.jpg" afterPath="$PROJECT_DIR$/public/images/j.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/lab.jpg" afterPath="$PROJECT_DIR$/public/images/lab.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/lameck.jpg" afterPath="$PROJECT_DIR$/public/images/lameck.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/linux.png" afterPath="$PROJECT_DIR$/public/administrator/assets/js/linux.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/mac.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/mac.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/metro.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/metro.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/mpera.jpeg" afterPath="$PROJECT_DIR$/public/styles/mpera.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/nurse.jpg" afterPath="$PROJECT_DIR$/public/styles/nurse.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/opera.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/opera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/partiners.jpg" afterPath="$PROJECT_DIR$/public/styles/partiners.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/partinership.jpeg" afterPath="$PROJECT_DIR$/public/styles/partinership.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/peter.jpg" afterPath="$PROJECT_DIR$/public/images/peter.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/preventive.jpg" afterPath="$PROJECT_DIR$/public/images/preventive.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/safari.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/safari.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/secretary.jpg" afterPath="$PROJECT_DIR$/public/images/secretary.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/services.jpeg" afterPath="$PROJECT_DIR$/public/styles/services.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/staff.jpeg" afterPath="$PROJECT_DIR$/public/styles/staff.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/staff.jpg" afterPath="$PROJECT_DIR$/public/styles/staff.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/supportive.jpg" afterPath="$PROJECT_DIR$/public/images/supportive.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t1.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t10.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t2.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t3.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t4.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t5.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t6.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t7.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t8.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/t9.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/t9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/user.jpg" afterPath="$PROJECT_DIR$/public/administrator/img/user.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/user1.png" afterPath="$PROJECT_DIR$/public/administrator/img/user1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/user2.png" afterPath="$PROJECT_DIR$/public/administrator/img/user2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/user22.png" afterPath="$PROJECT_DIR$/public/administrator/img/user22.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/img/icons/windows.png" afterPath="$PROJECT_DIR$/public/administrator/img/icons/windows.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_06_28_133144_create_home_header_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_06_28_133144_create_home_header_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_06_28_134219_create_welcome_note_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_06_28_134219_create_welcome_note_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_06_28_134359_create_slide_show_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_06_28_134359_create_slide_show_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/404 Not Found.html" afterPath="$PROJECT_DIR$/public/administrator/assets/style/404 Not Found.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/AdminOperationController.php" afterPath="$PROJECT_DIR$/app/controllers/AdminOperationController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Home_header.php" afterPath="$PROJECT_DIR$/app/models/Home_header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Slide_show.php" afterPath="$PROJECT_DIR$/app/models/Slide_show.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_core.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_list.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_path.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_spinning.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_spinning.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/History/add.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/History/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Opportunity/add.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Opportunity/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Projects/add.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Projects/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Service/add.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Service/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/Others/add.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/Others/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/management/add.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/management/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/users/add.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/users/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/add.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/articles.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/articles.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/articles_form.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/articles_form.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/bootstrap-datetimepicker.min.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/bootstrap-datetimepicker.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/bootstrap-datetimepicker.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/bootstrap-datetimepicker.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/bootstrap-switch.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/bootstrap-switch.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/bootstrap-switch.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/bootstrap-switch.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/bootstrap.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/layouts/bottom.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/layouts/bottom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/charts.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/charts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/content.blade.php" afterPath="$PROJECT_DIR$/app/views/home/content.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/core.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/custom.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/dashboard.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/dashboard.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/daterangepicker-bs3.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/daterangepicker-bs3.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/daterangepicker.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/daterangepicker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/themes/default.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/themes/default.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/dropzone.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/dropzone.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/History/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/History/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Opportunity/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Opportunity/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Projects/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Projects/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Service/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Service/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/Others/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/Others/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/management/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/management/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/users/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/users/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/embeda4ef.html" afterPath="$PROJECT_DIR$/public/administrator/assets/js/embeda4ef.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/excanvas.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/excanvas.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/filter.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/filter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/font-awesome.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/footer.blade.php" afterPath="$PROJECT_DIR$/app/views/footer.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/fullcalendar.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/fullcalendar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/fullcalendar.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/fullcalendar.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/ga.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/ga.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/header_text.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/header_text.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/header_text_form.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/header_text_form.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/icons.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/History/index.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/History/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Opportunity/index.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Opportunity/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Projects/index.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Projects/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Service/index.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Service/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/Others/index.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/Others/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/management/index.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/management/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/users/index.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/users/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/index.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/index.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/jquery-ui-1.9.2.custom.min.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/jquery-ui-1.9.2.custom.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery-ui-1.9.2.custom.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery-ui-1.9.2.custom.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/jquery.cleditor.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/jquery.cleditor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.cleditor.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.cleditor.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.dataTables.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.dataTables.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.easypiechart.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.easypiechart.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.flot.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.flot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.flot.pie.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.flot.pie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.flot.resize.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.flot.resize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.flot.stack.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.flot.stack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/jquery.gritter.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/jquery.gritter.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.gritter.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.gritter.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.icheck.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.icheck.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.maskedinput.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.maskedinput.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.noty.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.noty.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.prettyPhoto.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.rateit.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.rateit.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/scripts/jquery.slimscroll.js" afterPath="$PROJECT_DIR$/public/scripts/jquery.slimscroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.slimscroll.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.slimscroll.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.uniform.min.html" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.uniform.min.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.validationEngine-en.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.validationEngine-en.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/jquery.validationEngine.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/jquery.validationEngine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/larger.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/who/leadership.blade.php" afterPath="$PROJECT_DIR$/app/views/who/leadership.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/History/list.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/History/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Opportunity/list.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Opportunity/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Projects/list.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Projects/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Service/list.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Service/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/Others/list.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/Others/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/management/list.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/management/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/Staff/users/list.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/Staff/users/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/list.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/menu.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/menu.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/mixins.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/moment.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/moment.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/morris.min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/morris.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/path.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/prettyPhoto.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/prettyPhoto.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/raphael-min.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/raphael-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/rateit.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/rateit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/slide_show.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/slide_show.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/slide_show_form.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/slide_show_form.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/sparklines.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/sparklines.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/spinning.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/spinning.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/stacked.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/who/staff.blade.php" afterPath="$PROJECT_DIR$/app/views/who/staff.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/style.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/layouts/top.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/layouts/top.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/js/layouts/topRight.js" afterPath="$PROJECT_DIR$/public/administrator/assets/js/layouts/topRight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/variables.less" afterPath="$PROJECT_DIR$/public/administrator/assets/font-awesome-4.1.0/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/welcome_note.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/welcome_note.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/administrator/home/welcome_note_form.blade.php" afterPath="$PROJECT_DIR$/app/views/administrator/home/welcome_note_form.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/administrator/assets/style/widgets.css" afterPath="$PROJECT_DIR$/public/administrator/assets/style/widgets.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7b5719fd-f7c2-4e06-aa7e-3ae2c844b7a9" name="Default" comment="" />
     <ignored path="center_one.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -256,7 +73,7 @@
       <file leaf-file-name="staff.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/who/staff.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="56" selection-start="1858" selection-end="1858" vertical-scroll-proportion="0.76" vertical-offset="336" max-vertical-offset="3420">
+            <state line="28" column="39" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.25454545" vertical-offset="336" max-vertical-offset="3420">
               <folding />
             </state>
           </provider>
@@ -533,7 +350,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21601209" sideWeight="0.49886104" order="2" side_tool="false" content_ui="combo" />
@@ -543,7 +360,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24900557" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31973898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31914893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20398407" sideWeight="0.5011389" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -864,7 +681,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/who/staff.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="56" selection-start="1858" selection-end="1858" vertical-scroll-proportion="0.76" vertical-offset="336" max-vertical-offset="3420">
+        <state line="28" column="39" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.25454545" vertical-offset="336" max-vertical-offset="3420">
           <folding />
         </state>
       </provider>
