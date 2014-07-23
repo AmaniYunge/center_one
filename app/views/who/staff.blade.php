@@ -37,7 +37,7 @@
 
                 <div class="row-fluid">
                     <div class="span3">
-                        <img src="{{asset('images/secretary.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                        <img src="{{asset('images/secre.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
 
                     </div>
 
@@ -47,12 +47,12 @@
 
                     </div>
                     <div class="span3">
-                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                        <img src="{{asset('images/matron.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
 
                     </div>
 
                     <div class="span3">
-                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                        <img src="{{asset('images/account.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
 
                     </div>
                     </div>
@@ -60,19 +60,19 @@
                 <div class="row-fluid">
                     <div class="span3">
                         <p>
-                            Staff Name
+                           Mr. Nashon Bakobwa
                         </p>
                     </div>
 
                     <div class="span3">
                         <p>
-                            Staff Name
+                            Mr Peter Raphael
                         </p>
                     </div>
 
                     <div class="span3">
                         <p>
-                            Staff Name
+                            Ms. Grace Nathan
                         </p>
                     </div>
 

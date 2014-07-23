@@ -24,7 +24,6 @@
 
                 <h3>Projects</h3>
                 <p>
-                    <a href="#" title="">Project</a><br />
                     <span style="text-transform:none;">Construction of theatre building</span><br/>
                     <span style="text-transform:none;">Construction of  laboratory building</span>
                     <span style="text-transform:none;">Construction Of Children Ward Building</span>

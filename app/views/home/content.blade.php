@@ -91,7 +91,7 @@
         <div class="row-fluid">
 
             <div class="span12" id="divMain">
-               <div class="span10">
+               <div class="span10"><br><br>
                 <h2 style="color: #843534">Welcome</h2>
 
                 <p>Mpera Health Centre is a faith based/not for profit making organization dedicated to working with local

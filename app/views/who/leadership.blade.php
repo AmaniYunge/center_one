@@ -45,7 +45,7 @@
                         <h4>
                            Board Secretary
                         </h4>
-                        <img src="{{asset('images/secretary.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                        <img src="{{asset('images/secre.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Nashon Bakobwa
 
@@ -112,7 +112,7 @@
                     <div class="span3">
                         <h4>Member
                         </h4>
-                        <img src="{{asset('images/pet.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
+                        <img src="{{asset('images/matron.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 300px">
                         <p>
                             Ms. Grace Nathan
                         </p>
