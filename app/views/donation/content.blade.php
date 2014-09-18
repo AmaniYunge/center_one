@@ -10,8 +10,6 @@
 
             <div class="span12" id="divMain">
 
-               1bution</h3>
-
                 <p>
                     FPCT has an open policy for supports from different organizations and individuals when it comes for social services
                     like health. In order to carry out our work smoothly, we need to have regular supply of essential drugs and medical

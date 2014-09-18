@@ -16,8 +16,8 @@
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Incharge:</span> Nashon Bakobwa –Doctor Incharge</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Location–Village/District/Region/Country:</span> Mpera, Kahama, Shinyanga, Tanzania</br>
                    <span class="field-bold" style="font-weight: bold;font-size:13px;"> Distance from the District hospital:</span> 27km</br>
-                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of staffs:</span> 16</br>
-                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of beds:</span> 35
+<!--                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of staffs:</span> 16</br>-->
+<!--                <span class="field-bold" style="font-weight: bold;font-size:13px;"> Number of beds:</span> 35-->
 
             </div>
             <div class="span3" id="footerArea2">
@@ -29,7 +29,7 @@
                     <span style="text-transform:none;">Construction Of Children Ward Building</span>
                 </p>
                                <p>
-                    <a href="{{url("/projects")}}" title="">VIEW ALL PROJECTS</a>
+                    <a href="{{ url("/project") }}" title="">VIEW ALL PROJECTS</a>
                 </p>
 
             </div>
@@ -93,8 +93,8 @@
                 <div class="row-fluid">
                 <div class="span10"><p class="social_bookmarks">
                     <a href="#"><i class="social foundicon-facebook"></i> Facebook</a>
-                    <a href="https://twitter.com/oswt"><i class="social foundicon-twitter"></i> Twitter</a>
-                    <a href="#"><i class="social foundicon-google-plus"></i> Google+</a>
+<!--                    <a href="https://twitter.com/oswt"><i class="social foundicon-twitter"></i> Twitter</a>-->
+<!--                    <a href="#"><i class="social foundicon-google-plus"></i> Google+</a>-->
                 </p>
                 </div>
                 <div class="span1">

@@ -52,10 +52,7 @@
                             The major purpose of this project is to bring surgery services closer to the community. At present,
                             patients are referred to Kahama District hospital which is about 27 kms away from Mpera.
                             With this distance and available poor infrastructures, becomes difficult to refer patients on time requiring
-                            emergency surgery services such as pregnant mothers.  Discussions with our development partner –
-                            Tenhult Pentecostal Church in Sweden is going on for a possibility to support the project in construction of a theatre.
-                            Recently, Mr. Peter Raphael, our Administrative and Projects Manager held a discussion with the Mission Council of Tenhult
-                            Church when he visited Sweden</p>
+                            emergency surgery services such as pregnant mothers.</p>
                     </div>
                     <div class="span4">
                         <p>The current building does not have enough rooms as per new guidelines laid down by Ministry of Health.
