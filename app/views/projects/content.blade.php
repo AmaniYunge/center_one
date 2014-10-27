@@ -26,7 +26,7 @@
                                 <h2>Construction of  laboratory building</h2>
                             </div>
                             <div class="span4">
-                                <h2>Construction Of Children Ward</h2>
+                                <h2>Construction of Children Ward</h2>
                             </div>
                     </div>
 
@@ -65,7 +65,7 @@
                             The building was accomplished successfully under donation from Kahama Areas
                             Development Program/World Vision. The  building comprises of 4 rooms with
                             capacity of 8 beds each. In total, the ward requires 32 beds and mattresses. The
-                            estimated budget for purchasing beds and  mattress is Tzs. 4,800,000 (SEK 30,000)
+                            estimated budget for purchasing beds and  mattress is Tzs. 4,800,000 /SEK 30000 /USD 3000
                         </p>
                     </div>
 
@@ -75,7 +75,28 @@
         </div>
         <div class="row-fluid"  >
             <div class="sepContainer"></div>
-            <h2>Our Partiners</h2>
+            <h2>Our Partners</h2>
+            <div class="row-fluid"  >
+                <div class="span2">
+                    <h3 style="color: rgb(212, 14, 0)">Tenhult Filadelfia Kyrkan</h3>
+                </div>
+                <div class="span2">
+                    <h3 style="color: rgb(212, 14, 0)">Ostersund Filadelfia Kyrkan</h3>
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+
+            </div>
         </div>
         <div id="footerInnerSeparator" class="project"></div>
     </div>

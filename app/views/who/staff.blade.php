@@ -37,7 +37,7 @@
 
                 <div class="row-fluid">
                     <div class="span3">
-                        <img src="{{asset('images/secre.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 230px">
+                        <img src="{{asset('images/secre.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 200px">
 
                     </div>
 
@@ -47,7 +47,7 @@
 
                     </div>
                     <div class="span3">
-                        <img src="{{asset('images/matron.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 300px">
+                        <img src="{{asset('images/matron.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 200px">
 
                     </div>
 
@@ -100,19 +100,42 @@
 
                 </div>
                 <div class="span6">
+                    <li> Mariam Bulugu– Medical Attendant</li>
                     <li> Elizabeth Sengati – Medical Attendant</li>
                     <li>Elizabeth Aron – Medical Attendant</li>
                     <li>  Sara Jeremia – Cashier</li>
                     <li> Milila Bundala - Security Guard</li>
-                    <li>Maige Mtandio - Security Guardr</li>
+                    <li>Maige Mtandio - Security Guard</li>
                     <li> Samwel Mayala – Outworker</li>
+
                 </div>
             </div>
 
         </div>
         <div class="row-fluid"  >
             <div class="sepContainer"></div>
-            <h2>Our Partiners</h2>
+            <h2>Our Partners</h2>
+            <div class="row-fluid"  >
+                <div class="span2">
+                    <h3 style="color: rgb(212, 14, 0)">Tenhult Filadelfia Kyrkan</h3>
+                </div>
+                <div class="span2">
+                    <h3 style="color: rgb(212, 14, 0)">Ostersund Filadelfia Kyrkan</h3>
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+
+            </div>
         </div>
         <div id="footerInnerSeparator" class="staff"></div>
     </div>

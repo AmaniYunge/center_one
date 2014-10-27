@@ -69,7 +69,29 @@
         </div>
         <div class="row-fluid"  >
             <div class="sepContainer"></div>
-            <h2>Our Partiners</h2>
+            <h2>Our Partners</h2>
+
+            <div class="row-fluid"  >
+                <div class="span2">
+                    <h3 style="color: rgb(212, 14, 0)">Tenhult Filadelfia Kyrkan</h3>
+                </div>
+                <div class="span2">
+                    <h3 style="color: rgb(212, 14, 0)">Ostersund Filadelfia Kyrkan</h3>
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+                <div class="span2">
+
+                </div>
+
+            </div>
         </div>
         <div id="footerInnerSeparator" class="contact"></div>
 
