@@ -31,7 +31,7 @@
                         <h4>
                             Board Chair
                         </h4>
-                        <img src="{{asset('images/elias.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 200px">
+                        <img src="{{asset('images/elias.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 200px">
                         <p>
                             Rev. Elias Mageni
                         </p>
@@ -45,7 +45,7 @@
                         <h4>
                            Board Secretary
                         </h4>
-                        <img src="{{asset('images/secre.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 200px">
+                        <img src="{{asset('images/secre.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 200px">
                         <p>
                             Nashon Bakobwa
 
@@ -59,7 +59,7 @@
                         <h4>
                            Invited Member
                         </h4>
-                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 200px">
+                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 250px">
                         <p>
                             Mr. Peter Raphael
                         </p>
@@ -71,7 +71,7 @@
                         <h4>
                             Member
                         </h4>
-                        <img src="{{asset('images/pe.jpg')}}" class="img-polaroid"style="margin:5px 0px 15px; height: 200px; width: 200px">
+                        <img src="{{asset('images/pe.jpg')}}" class="img-polaroid"style="margin:5px 0px 15px; height: 230px; width: 200px">
                         <p>
                             Ms. Anna Ngeni
                         </p>
@@ -86,7 +86,7 @@
                         <h4>
                             Member
                         </h4>
-                        <img src="{{asset('images/petr.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 200px">
+                        <img src="{{asset('images/pic.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 200px">
                         <p>
                             Rev. Elias Mihambo
                         </p>
@@ -99,7 +99,7 @@
                         <h4>
                             Member
                         </h4>
-                        <img src="{{asset('images/lameck.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 200px">
+                        <img src="{{asset('images/lameck.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 200px">
                         <p>
                             Mr. Lameck Mathew
 
@@ -112,7 +112,7 @@
                     <div class="span3">
                         <h4>Member
                         </h4>
-                        <img src="{{asset('images/matron.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 200px">
+                        <img src="{{asset('images/matron.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 200px">
                         <p>
                             Ms. Grace Nathan
                         </p>
@@ -124,7 +124,7 @@
 <!--                    <div class="span3">-->
 <!--                        <h4>Member-->
 <!--                        </h4>-->
-<!--                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 200px; width: 200px">-->
+<!--                        <img src="{{asset('images/peter.jpg')}}" class="img-polaroid" style="margin:5px 0px 15px; height: 230px; width: 200px">-->
 <!--                        <p>-->
 <!--                            Mrs. Grace Nathan-->
 <!--                        </p>-->
@@ -134,7 +134,10 @@
             </div>
 
         </div>
-
+        <div class="row-fluid"  >
+            <div class="sepContainer"></div>
+            <h2>Our Partiners</h2>
+        </div>
         <div id="footerInnerSeparator" class="leadership"></div>
     </div>
 </div>

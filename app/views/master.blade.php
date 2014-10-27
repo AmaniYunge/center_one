@@ -1,5 +1,10 @@
-<!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/html">
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html xmlns="http://www.w3.org/1999/html" lang="en">
+<!--<![endif]-->
 <head>
     <meta charset="utf-8">
     <title>Mpera Health Centre</title>
@@ -27,13 +32,7 @@
     <link rel="stylesheet" href="{{ URL::asset('scripts/camera/css/camera.css')}}">
     <link rel="stylesheet" href="{{ URL::asset('css/googlestyles.css')}}">
     <link rel="stylesheet" href="{{ URL::asset('styles/custom.css')}}">
-
-
-    <!-- styles specifically for products
-    {{HTML::style('css/base.css')}}
-    {{HTML::style('css/skeleton.css')}}
-    {{HTML::style('css/screen.css')}}-->
-    {{HTML::style('css/prettyPhoto.css')}}
+    <link rel="stylesheet" href="{{ URL::asset('css/prettyPhoto.css')}}">
 
 <!--    {{HTML::script('scripts/jquery-1.8.2.min.js')}}-->
     {{HTML::script('scripts/jquery-1.8.2.min.js')}}
@@ -115,9 +114,8 @@
 
                 <div id="divLogo">
                     <a href="{{ url("/") }}" id="divSiteTitle">Mpera Health Centre</a><br />
-                    <h3<a href="{{ url("/") }}" id="divTagLine"></a>FPCT Health and Social welfare Department</h3>
-<!--                    <a href="{{ url("/") }}" id="divTagLine">Kahama District, Tanzania-->
-<!--                    </a>-->
+                    <h3 id="divTagLine"></a>FPCT Health and Social welfare Department</h3>
+
                 </div>
 
             </div>

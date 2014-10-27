@@ -32,6 +32,9 @@
                         </div>
 
                     </div>
-
+                                 <div class="row-fluid"  >
+                                     <div class="sepContainer"></div>
+                                     <h2>Our Partiners</h2>
+                                 </div>
                     <div id="footerInnerSeparator" class="work"></div>
                 </div>
