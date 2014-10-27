@@ -108,7 +108,7 @@
             <div class="span2"><br><br>
                 <div class="inner-div">
                     <h2 style="text-align: center;color: #843534">Latest News</h2>
-                    <h4><strong>Partnership meeting in Sweden</strong></h4>
+                    <h4><strong>Partnership Meeting</strong></h4>
                     <p>
                         In May 2014, our administrative and projects manager travelled to Sweden. Among other places, he visited Ostersund and
                         Tenhult where he met with the mission council to discuss about the future of our health work and collaboration in general.
