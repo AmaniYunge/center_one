@@ -67,7 +67,7 @@
                         <i class="general foundicon-mail icon"></i>
                         <span class="field">Email:</span>
                         <br />
-                        <a href="mailto:info@yourdomain.com" title="Email">mperahealthcentre@gmail.com</a>
+                        <a href="mailto:mperahealthcentre@gmail.com" title="Email">mperahealthcentre@gmail.com</a>
                     </li>
                     <li>
                         <i class="general foundicon-home icon" style="margin-bottom:50px"></i>

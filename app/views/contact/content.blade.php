@@ -57,12 +57,14 @@
                         <tr><th style="text-align: right">Physical:</th><td>Mpera Village</td></tr>
                         <tr><th style="text-align: right">Phone:</th><td>+255 786 453 463<br/>+255 767 453 463</td></tr>
                         <tr><th style="text-align: right">Box:</th><td>25 Kahama,Tanzania</td></tr>
+                        <tr><th style="text-align: right">Email:</th><td>mperahealthcentre@gmail.com</td></tr>
+
                         </tbody>
                     </table>
                 </div>
 
                 <div class="sidebox">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d508962.68235027394!2d32.85057626269321!3d-4.72292926308405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e6!4m5!1s0x19b6914171ae022b%3A0x76fb5f630d332fbb!2sTabora!3m2!1d-5.0166667!2d32.8!4m5!1s0x0%3A0x5374ad1b2a43c0a5!2sNkinga+Hospital!3m2!1d-4.426469!2d33.439!5e0!3m2!1sen!2s!4v1403675049508" width="280" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" frameborder="0" style="border:0"></iframe>
+<!--                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d7961.745100038067!2d32.598671638806785!3d-3.8375241497511077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sMpera!5e0!3m2!1sen!2stz!4v1414440907016" width="600" height="450" frameborder="0" style="border:0"></iframe>-->
                 </div>
 
             </div>
