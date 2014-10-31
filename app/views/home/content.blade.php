@@ -20,7 +20,7 @@
                 <div id="camera_wrap">
                     <div data-src="styles/partinership.jpeg" >
                         <div class="camera_caption fadeFromBottom cap1">
-                            The mutual relationship between FPCT and Swedish partners has been inexistance for several
+                            The mutual relationship between FPCT and Swedish partners has been in existence for several
                             decades. This relationship is symbolized by drawings of the flags of the two nations – Sweden and
                             Tanzania as indicated on the sign board.
 
