@@ -197,7 +197,7 @@ class Cookie
     }
 
     /**
-     * Whether this cookie is what to be cleared
+     * Whether this cookie is about to be cleared
      *
      * @return bool
      *

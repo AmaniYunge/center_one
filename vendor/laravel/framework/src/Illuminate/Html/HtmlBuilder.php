@@ -72,7 +72,7 @@ class HtmlBuilder {
 	 */
 	public function style($url, $attributes = array(), $secure = null)
 	{
-		$defaults = array('media' => 'all', 'type' => 'text/style', 'rel' => 'stylesheet');
+		$defaults = array('media' => 'all', 'type' => 'text/css', 'rel' => 'stylesheet');
 
 		$attributes = $attributes + $defaults;
 
@@ -280,10 +280,8 @@ class HtmlBuilder {
 		{
 			return $this->nestedListing($key, $type, $value);
 		}
-		else
-		{
-			return '<li>'.e($value).'</li>';
-		}
+
+		return '<li>'.e($value).'</li>';
 	}
 
 	/**
@@ -300,10 +298,8 @@ class HtmlBuilder {
 		{
 			return $this->listing($type, $value);
 		}
-		else
-		{
-			return '<li>'.$key.$this->listing($type, $value).'</li>';
-		}
+
+		return '<li>'.$key.$this->listing($type, $value).'</li>';
 	}
 
 	/**

@@ -36,7 +36,7 @@ Route::get('/opportunity',array('as'=>'opportunity', 'uses'=>'HomeController@opp
 
 //////// projects routes
 Route::get('/contact',array('as'=>'project', 'uses'=>'HomeController@contact'));
-Route::post('/contact',array('as'=>'project', 'uses'=>'HomeController@enquery'));
+Route::post('/contacts',array('as'=>'project', 'uses'=>'HomeController@enquery'));
 
 
 //////////////////////admin page controller

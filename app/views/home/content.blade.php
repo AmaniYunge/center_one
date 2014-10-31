@@ -20,8 +20,8 @@
                 <div id="camera_wrap">
                     <div data-src="styles/partinership.jpeg" >
                         <div class="camera_caption fadeFromBottom cap1">
-                            In picture: Sign board – The mutual relationship between FPCT and Swedish churches has existed for some
-                            decades now. This relationship is symbolized by drawings of the flags of the two nations – Sweden and
+                            The mutual relationship between FPCT and Swedish partners has been inexistance for several
+                            decades. This relationship is symbolized by drawings of the flags of the two nations – Sweden and
                             Tanzania as indicated on the sign board.
 
                         </div>
@@ -29,46 +29,42 @@
 
                     <div data-src="styles/curative.jpg" >
                         <div style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;" class="fadeIn camera_effected camera_caption cap1">
-                            In Picture: A doctor  during ward round work
+                             Dental and Oral health services
 
                         </div>
                     </div>
-                    <div data-src="styles/governance.jpeg" >
+                    <div data-src="styles/governance.jpg" >
                         <div class="camera_caption fadeFromBottom cap2">
-                            In Picture: At one of the official visit made by FPCT national leadership to the health facilities. (L – R) Mr.
-                            Peter Raphael – FPCT Health Coordinator; Rev. Elias Shija – FPCT Secretary General, Dr. Patrick Mbanga –
-                            FPCT Health Director and other medical staff
+                             Partnership meeting: Tenhult Filadelfia Kyrkan Mission Council members and MHC representative at Tenhult, Sweden
 
                         </div>
                     </div>
                     <div data-src="styles/partiners.jpg" >
                         <div class="camera_caption fadeFromBottom cap2">
-                            In picture: Our partners from Sweden together with Mr Peter Raphael (Administrative & Project Manager)
-
+                            Partnership meetng: FPCT health department representative meets members of Ostersund Filadelfia Kyrkan Mission Council
                         </div>
                     </div>
                     <div data-src="styles/nurse.jpg" >
                         <div class="camera_caption fadeFromBottom cap2">
-                            In Picture: A nurse Reviewing patient records.
+                             A nurse Reviewing patient records.
                         </div>
                     </div>
 
                     <div data-src="styles/mpera.jpeg" >
                         <div class="camera_caption fadeFromBottom cap2">
-                            In picture: Patients waiting to be attended by a doctor
+                             Patients waiting to be attended by a doctor
 
                         </div>
                     </div>
-                    <div data-src="styles/staff.jpeg" >
+                    <div data-src="styles/staff.jpg" >
                         <div class="camera_caption camera-effected fadeFromBottom cap1" style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;">
-                            In picture: Some of MHC staff working in the maternity ward.
-
+                             Some of MHC staff members
                         </div>
                     </div>
 
                     <div data-src="styles/doctor.jpg" >
                         <div class="camera_caption fadeFromBottom cap2">
-                            In Picture: A doctor and a nurse during ward round work
+                             A doctor and a nurse during ward round work
                         </div>
                     </div>
                 </div>

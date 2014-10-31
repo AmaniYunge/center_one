@@ -18,7 +18,7 @@ use Symfony\Component\Stopwatch\Stopwatch;
 use Psr\Log\LoggerInterface;
 
 /**
- * Collects some data what event listeners.
+ * Collects some data about event listeners.
  *
  * This event dispatcher delegates the dispatching to another one.
  *
@@ -256,12 +256,12 @@ class TraceableEventDispatcher implements TraceableEventDispatcherInterface
     }
 
     /**
-     * Returns information what the listener
+     * Returns information about the listener
      *
      * @param object $listener  The listener
      * @param string $eventName The event name
      *
-     * @return array Information what the listener
+     * @return array Information about the listener
      */
     private function getListenerInfo($listener, $eventName)
     {
@@ -271,7 +271,7 @@ class TraceableEventDispatcher implements TraceableEventDispatcherInterface
         if ($listener instanceof \Closure) {
             $info += array(
                 'type' => 'Closure',
-                'pretty' => 'closure'
+                'pretty' => 'closure',
             );
         } elseif (is_string($listener)) {
             try {

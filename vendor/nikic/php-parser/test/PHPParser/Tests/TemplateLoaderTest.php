@@ -8,7 +8,7 @@ class PHPParser_Tests_TemplateLoaderTest extends PHPUnit_Framework_TestCase
             dirname(__FILE__)
         );
 
-        // load this file as a template, as we don't really care what the contents
+        // load this file as a template, as we don't really care about the contents
         $template = $templateLoader->load('TemplateLoaderTest.php');
         $this->assertInstanceOf('PHPParser_Template', $template);
     }
@@ -19,7 +19,7 @@ class PHPParser_Tests_TemplateLoaderTest extends PHPUnit_Framework_TestCase
             dirname(__FILE__), '.php'
         );
 
-        // load this file as a template, as we don't really care what the contents
+        // load this file as a template, as we don't really care about the contents
         $template = $templateLoader->load('TemplateLoaderTest');
         $this->assertInstanceOf('PHPParser_Template', $template);
     }

@@ -150,7 +150,7 @@ $swift_mime_types = array(
     'csh' => 'application/x-csh',
     'csml' => 'chemical/x-csml',
     'csp' => 'application/vnd.commonspace',
-    'style' => 'text/style',
+    'css' => 'text/css',
     'cst' => 'application/x-director',
     'csv' => 'text/csv',
     'cu' => 'application/cu-seeme',
@@ -1003,5 +1003,5 @@ $swift_mime_types = array(
     'zir' => 'application/vnd.zul',
     'zirz' => 'application/vnd.zul',
     'zmm' => 'application/vnd.handheld-entertainment+xml',
-    '123' => 'application/vnd.lotus-1-2-3'
+    '123' => 'application/vnd.lotus-1-2-3',
 );

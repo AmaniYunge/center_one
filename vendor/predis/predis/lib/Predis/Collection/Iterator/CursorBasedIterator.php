@@ -21,7 +21,7 @@ use Predis\NotSupportedException;
  * on Redis using commands in the `SCAN` family.
  *
  * Given their incremental nature with multiple fetches, these kind of
- * iterators offer limited guarantees what the returned elements because
+ * iterators offer limited guarantees about the returned elements because
  * the collection can change several times during the iteration process.
  *
  * @see http://redis.io/commands/scan
@@ -166,16 +166,18 @@ abstract class CursorBasedIterator implements Iterator
      */
     public function next()
     {
-        if (!$this->elements && $this->fetchmore) {
-            $this->fetch();
-        }
+        tryFetch: {
+            if (!$this->elements && $this->fetchmore) {
+                $this->fetch();
+            }
 
-        if ($this->elements) {
-            $this->extractNext();
-        } elseif ($this->cursor) {
-            $this->next();
-        } else {
-            $this->valid = false;
+            if ($this->elements) {
+                $this->extractNext();
+            } elseif ($this->cursor) {
+                goto tryFetch;
+            } else {
+                $this->valid = false;
+            }
         }
     }
 

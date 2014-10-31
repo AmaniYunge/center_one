@@ -17,7 +17,7 @@ use Symfony\Component\HttpKernel\KernelEvents;
 use Symfony\Component\EventDispatcher\Event;
 
 /**
- * Collects some data what event listeners.
+ * Collects some data about event listeners.
  *
  * This event dispatcher delegates the dispatching to another one.
  *
@@ -65,7 +65,8 @@ class TraceableEventDispatcher extends BaseTraceableEventDispatcher
                 // which must be caught.
                 try {
                     $this->stopwatch->openSection($token);
-                } catch (\LogicException $e) {}
+                } catch (\LogicException $e) {
+                }
                 break;
         }
     }
@@ -89,7 +90,8 @@ class TraceableEventDispatcher extends BaseTraceableEventDispatcher
                 $token = $event->getResponse()->headers->get('X-Debug-Token');
                 try {
                     $this->stopwatch->stopSection($token);
-                } catch (\LogicException $e) {}
+                } catch (\LogicException $e) {
+                }
                 break;
         }
     }

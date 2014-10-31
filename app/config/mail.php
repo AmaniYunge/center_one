@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => null, 'name' => null),
+	'from' => array('address' => 'mperahealthcentre@gmail.com', 'name' => 'mperahealthcentre'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'leo.august27@gmail.com',
+	'username' => 'mperahealthcentre@gmail.com',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => 'mariampande',
+	'password' => 'mpera2014',
 
 	/*
 	|--------------------------------------------------------------------------

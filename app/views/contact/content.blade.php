@@ -14,7 +14,7 @@
                 </div>
                 <div class="row-fluid">
                     <h3>Email</h3>
-                    <form method="post" class="form-horizontal" action="{{ url("/contact")}}" id="contacts">
+                    <form method="post" class="form-horizontal" action="{{ url("/contacts")}}" id="contacts">
                     <div id="field1-container" class="field f_50">
                         <label for="field1">Name</label>
                         <input class="input-xxlarge" name="name" id="field1" required="required" type="text">
