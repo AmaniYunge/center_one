@@ -17,7 +17,7 @@
                     <form method="post" class="form-horizontal" action="{{ url("/contacts")}}" id="contacts">
                     <div id="field1-container" class="field f_50">
                         <label for="field1">Name</label>
-                        <input class="input-xxlarge" name="name" id="field1" required="required" type="text">
+                        <input class="input-xxlarge" name="name" id="field1" required="required" type="text" >
 
                     </div>
 
@@ -36,7 +36,7 @@
 
                     <div id="field4-container" class="field f_100">
                         <label for="field4">Message</label>
-                        <textarea class="input-xxlarge" rows="5" cols="20" name="message" id="field4" required="required"></textarea>
+                        <textarea class="input-xxlarge" rows="5" cols="20" name="contents" id="field4" required="required"></textarea>
                     </div>
 
                      <div id="output"></div>
@@ -64,7 +64,7 @@
                 </div>
 
                 <div class="sidebox">
-<!--                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d7961.745100038067!2d32.598671638806785!3d-3.8375241497511077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sMpera!5e0!3m2!1sen!2stz!4v1414440907016" width="600" height="450" frameborder="0" style="border:0"></iframe>-->
+<!--                    <iframe src="https://www.google.com/maps/embontactsed?pb=!1m16!1m12!1m3!1d7961.745100038067!2d32.598671638806785!3d-3.8375241497511077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sMpera!5e0!3m2!1sen!2stz!4v1414440907016" width="600" height="450" frameborder="0" style="border:0"></iframe>-->
                 </div>
 
             </div>

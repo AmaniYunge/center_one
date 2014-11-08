@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'mperahealthcentre@gmail.com', 'name' => 'mperahealthcentre'),
+	'from' => array('address' => 'mperahealthcentre@gmail.com', 'name' => 'Mpera Health Centre'),
 
 	/*
 	|--------------------------------------------------------------------------

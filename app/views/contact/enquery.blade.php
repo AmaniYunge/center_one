@@ -468,7 +468,7 @@
 
                 <div class="row-fluid">
                     <p>
-                            {{$description}}
+                            {{$contents}}
                     </p>
                 </div>
 

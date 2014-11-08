@@ -78,16 +78,13 @@ class HomeController extends BaseController {
 
 
          if(Input::get("email") != "" && Input::get("name") !=""){
-//            Visitor_email::create(array(
-//                'name'      =>Input::get("name"),
-//                'tel'     =>Input::get("telephone"),
-//                'email'       =>Input::get("email"),
-//               'message'   =>Input::get("description")
-//            ));
+             $data = array("name"=>Input::get("name"),"email"=>Input::get("email"),"tel"=>Input::get("tel"),"contents"=>Input::get("contents"));
+             Mail::send('contact.enquery',$data, function($message){
+                $message->from(Input::get("email"), 'Mpera Health Centre Visitor');
+                $message->to('mperahealthcentre@gmail.com', 'Mpera Health Centre')->subject('Message From Mpera user');
 
-                 Mail::send('contact/enquery',array('name'=>Input::get("name"),'email'=>Input::get("email"),'tel'=>Input::get("tel"),'description'=>Input::get("message")), function($message){
-                     $message->from(Input::get('email'))->to("mperahealthcentre@gmail.com", Input::get('name'))->subject("Contacts form Mpera Health Centre Visitor");
-                 });
+             });
+
 
              return "<h4 class='text-error'>message has been sent..</h4>";
 
