@@ -14,23 +14,22 @@
                 </div>
                 <div class="row-fluid">
                     <h3>Email</h3>
-                    <form method="post" class="form-horizontal" action="{{ url("/contacts")}}" id="contacts">
+
+                    <form method="post" class="form-horizontal" action="{{ url('enquery')}}" id="contacts">
                     <div id="field1-container" class="field f_50">
-                        <label for="field1">Name</label>
-                        <input class="input-xxlarge" name="name" id="field1" required="required" type="text" >
+                        <label for="field1">Name<b>*</b></label>
+                        <input class="input-xxlarge" name="name" id="field1" required="required" type="text">
 
                     </div>
-
-
                     <div id="field2-container" class="field f_50">
-                        <label for="field2">Telephone</label>
+                        <label for="field2">Telephone<b>*</b></label>
                         <input class="input-xxlarge" name="tel" id="field2" required="required" type="text">
                     </div>
 
 
                     <div id="field5-container" class="field f_50">
                         <label for="field5">Email<b>*</b></label>
-                        <input class="input-xxlarge"name="email" id="field5" required="required" type="email">
+                        <input class="input-xxlarge" name="email" id="field5" required="required" type="email">
                     </div>
 
 
@@ -39,11 +38,12 @@
                         <textarea class="input-xxlarge" rows="5" cols="20" name="contents" id="field4" required="required"></textarea>
                     </div>
 
-                     <div id="output"></div>
+                     <div id="output">
                     <div id="form-submit" class="field f_100 clearfix submit">
                         <!--input value="Submit" type="submit"--><br/>
                         <button class="btn btn-small btn-secondary" type="submit" >Submit</button>
                     </div>
+                     </div>
                     </form>
 
                 </div>
@@ -105,7 +105,7 @@
 
         $('#contacts').on('submit', function(e) {
             e.preventDefault();
-            $("#output").html("<h3><i class='fa fa-spin fa-spinner '></i><span class='text-success' style='font-size:12px;'>Making changes please wait...</span><h3>");
+            $("#output").html("<h3><i class='fa fa-spin fa-spinner'></i><span class='text-success' style='font-size:12px;'>Making changes please wait...</span><h3>");
             $(this).ajaxSubmit({
                 target: '#output',
                 success:  afterSuccess

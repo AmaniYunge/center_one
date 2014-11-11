@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'nkinga_health',
+			'database'  => 'mpera',
 			'username'  => 'root',
-			'password'  => 'mpande',
+			'password'  => 'yunge',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

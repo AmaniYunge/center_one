@@ -73,17 +73,33 @@ class HomeController extends BaseController {
         {
             return View::make('contact.index');
         }
+//    public function addmail(){
+//            Resources::create(array(
+//                "title"=>Input::get("name"),
+//                "title"=>Input::get("tel"),
+//                "title"=>Input::get("email"),
+//                "discr"=>Input::get("discr"),
+//            ));
+//    }
+
     public function enquery()
         {
 
 
          if(Input::get("email") != "" && Input::get("name") !=""){
-             $data = array("name"=>Input::get("name"),"email"=>Input::get("email"),"tel"=>Input::get("tel"),"contents"=>Input::get("contents"));
-             Mail::send('contact.enquery',$data, function($message){
-                $message->from(Input::get("email"), 'Mpera Health Centre Visitor');
-                $message->to('mperahealthcentre@gmail.com', 'Mpera Health Centre')->subject('Message From Mpera user');
+         Mail::create(array(
+             "name"=>Input::get("name"),
+             "email"=>Input::get("email"),
+             "tel"=>Input::get("tel"),
+             "contents"=>Input::get("contents"),
+         ));
 
-             });
+
+//             Mail::send('contact.enquery',$data, function($message){
+//                $message->from(Input::get("email"), 'Mpera Health Centre Visitor');
+//                $message->to('mperahealthcentre@gmail.com', 'Mpera Health Centre')->subject('Message From Mpera user');
+//
+//             });
 
 
              return "<h4 class='text-error'>message has been sent..</h4>";

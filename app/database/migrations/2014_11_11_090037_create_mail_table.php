@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateHomeHeaderTable extends Migration {
+class CreateMailTable extends Migration {
 
 	/**
 	 * Run the migrations.
@@ -11,15 +11,17 @@ class CreateHomeHeaderTable extends Migration {
 	 * @return void
 	 */
 	public function up()
-	{
-		Schema::create('home_header', function(Blueprint $table)
-		{
+    {
+        Schema::create('mail', function(Blueprint $table)
+        {
             $table->increments('id');
-            $table->string("title");
-            $table->mediumText("description");
+            $table->string("name");
+            $table->string("email");
+            $table->string("tel");
+            $table->string("contents");
             $table->timestamps();
-		});
-	}
+        });
+    }
 
 	/**
 	 * Reverse the migrations.
@@ -28,7 +30,7 @@ class CreateHomeHeaderTable extends Migration {
 	 */
 	public function down()
 	{
-		Schema::drop('home_header');
+        Schema::drop('mail');
 	}
 
 }
