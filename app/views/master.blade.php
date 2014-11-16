@@ -71,29 +71,30 @@
     </div>
     <div class="modal-body">
 
-        <form method="post" class="form-horizontal" action="{{ url("/contact")}}" id="login_form">
+        <form method="post" class="form-horizontal" action="{{ url("/login")}}" id="login_form">
             <div class="control-group">
                 <label class="control-label" for="inputEmail">Email</label>
                 <div class="controls">
-                    <input type="text" class="input-xlarge" style="height:30px;" id="inputEmail" placeholder="Email">
+                    <input type="text" name="email" REQUIRED="" class="input-xlarge" style="height:30px;" id="inputEmail" placeholder="Email">
                 </div>
             </div>
             <div class="control-group">
                 <label class="control-label" for="inputPassword">Password</label>
                 <div class="controls">
-                    <input type="password" class="input-xlarge" style="height:30px;" id="inputPassword" placeholder="Password">
+                    <input type="password" name="pass"  class="input-xlarge" style="height:30px;" id="inputPassword" placeholder="Password">
                 </div>
             </div>
             <div class="control-group">
                 <div class="controls">
                     <label class="checkbox">
-                        <input type="checkbox"> Remember me
+                        <input type="checkbox" name="keep" value="keep"> Remember me
                     </label>
-                    <div id="output"></div>
+                    <div id="output2"></div>
 
                 </div>
             </div>
-        </form>
+
+
 
 
     </div>
@@ -101,7 +102,37 @@
         <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
         <button type="submit" class="btn btn-success">Ok</button>
     </div>
+    </form>
 </div>
+
+<script>
+    $(document).ready(function (){
+
+
+        $('#login_form').on('submit', function(e) {
+            e.preventDefault();
+            $("#output2").fadeIn().html("<h3><i class='fa fa-spin fa-spinner'></i><span class='text-success' style='font-size:15px;'>LOGGING IN...</span><h3>");
+                    $(this).ajaxSubmit({
+                        target: '#output2',
+                        success:  afterSuccess
+                    });
+
+        });
+
+
+            function afterSuccess(){
+              if($("#output2").text() == "1"){
+                  window.location.replace("<?php echo url("/admin") ?>");
+            }else{
+                  setTimeout(function() {
+                      $("#output2").fadeOut();
+                  }, 3000);
+
+              }
+            }
+
+    });
+</script>
 
 
 
