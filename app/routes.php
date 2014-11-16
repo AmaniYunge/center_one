@@ -49,8 +49,41 @@ Route::get('/admin/history',array('as'=>'history', 'uses'=>'AdminController@hist
 //////////ROUTE HANDLES ADMIN  HOME PAGE MANAGEMENT
 Route::get('admin/home/list/{list_id}',array('as'=>'history', 'uses'=>'AdminOperationController@listing'));
 Route::get('admin/home/form/{form_id}',array('as'=>'history', 'uses'=>'AdminOperationController@form'));
-//Route::get('/admin/history',array('as'=>'history', 'uses'=>'AdminController@history'));
 
+Route::post('/login',array('as'=>'login', function(){
+   $user = User::where("staff_id",Input::get('email'))->where("password",Input::get('pass'))->get();
+    if (count($user) != 0){
+
+        echo "1";
+    }else{
+        echo "<h3 style='color:red' >Email Or Password is Incorrect </h3>";
+    }
+
+}));
+
+Route::get('/logout',array('as'=>'logout', function(){
+    Auth::logout();
+    return Redirect::to("/");
+}));
+
+
+//display a form to add new user
+Route::get('user/add',array('as'=>'adduser', 'uses'=>'UserController@create'));
+
+//display a list of users
+Route::get('user/list',array('uses'=>'UserController@userlist'));
+
+//adding new user
+Route::post('user/add',array('as'=>'adduser1', 'uses'=>'UserController@store'));
+
+//viewing list of users
+Route::get('users',array('as'=>'listuser', 'uses'=>'UserController@index'));
+
+//display a form to edit users information
+Route::get('user/edit/{id}',array('as'=>'edituser', 'uses'=>'UserController@edit'));
+
+//editng users information
+Route::post('user/edit/{id}',array('as'=>'edituser', 'uses'=>'UserController@update'));
 
 
 

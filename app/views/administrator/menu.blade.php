@@ -20,6 +20,15 @@
                 <li><a href="{{ url("/admin/othermembers") }}">Others members</a></li>
             </ul>
         </li>
+        <li><a href="{{ url("users") }}"><i class="fa fa-user"></i> <span>Users</span> <span class="pull-right"><i class="fa fa-chevron-left"></i></span></a></li>
+        <li><a href="#"><i class="fa fa-envelope"></i> <span>Mail</span> <span class="pull-right"><i class="fa fa-chevron-left"></i></span></a></li>
+        <li class="has_sub"><a href="#"><i class="fa fa-list-alt"></i> <span>Staff members</span> <span class="pull-right"><i class="fa fa-chevron-left"></i></span></a>
+            <ul>
+                <li><a href="{{ url("/admin/users") }}">System users</a></li>
+                <li><a href="{{ url("/admin/management") }}">Management Team</a></li>
+                <li><a href="{{ url("/admin/othermembers") }}">Others members</a></li>
+            </ul>
+        </li>
         <li class="has_sub"><a href="#"><i class="fa fa-sitemap"></i> <span>Pages Management</span> <span class="pull-right"><i class="fa fa-chevron-left"></i></span></a>
             <ul>
                 <li><a href="{{ url("/admin/homepage") }}">Home</a></li>
