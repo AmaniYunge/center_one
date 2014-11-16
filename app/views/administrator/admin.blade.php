@@ -111,7 +111,7 @@
                 <button class="navbar-toggle btn-navbar" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse"><span>Menu</span></button>
                 <a href="#" class="pull-left menubutton hidden-xs"><i class="fa fa-bars"></i></a>
                 <!-- Site name for smallar screens -->
-                <a href="{{ url('/admin') }}" class="navbar-brand"><span class="bold">Nkinga Health Center</span></a>
+                <a href="{{ url('/admin') }}" class="navbar-brand"><span class="bold">Mpera Health Centre</span></a>
             </div>
 
             <!-- Navigation starts -->

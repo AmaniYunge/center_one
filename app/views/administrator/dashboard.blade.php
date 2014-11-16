@@ -2,7 +2,7 @@
 
 @section("adminpagehead")
 <div class="page-head">
-    <h2 class="pull-left">Nkinga Health Center</h2>
+    <h2 class="pull-left">Mpera Health Centre</h2>
     <div class="pull-right">
         <div id="reportrange" class="pull-right">
             <i class="fa fa-calendar"></i>
