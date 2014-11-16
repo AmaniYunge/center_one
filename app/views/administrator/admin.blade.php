@@ -29,9 +29,9 @@
     {{HTML::style('administrator/assets/style/bootstrap-datetimepicker.min.css')}}
     <!-- CLEditor -->
     {{HTML::style('administrator/assets/style/jquery.cleditor.css')}}
-    <!-- Uniform -->
-    {{HTML::style('administrator/assets/style/uniform.default.html')}}
-    <!-- Uniform -->
+<!--    <!-- Uniform -->-->
+<!--    {{HTML::style('administrator/assets/style/uniform.default.html')}}-->
+<!--    <!-- Uniform -->-->
     {{HTML::style('administrator/assets/style/daterangepicker-bs3.css')}}
     <!-- Bootstrap toggle -->
     {{HTML::style('administrator/assets/style/bootstrap-switch.css')}}
@@ -66,12 +66,12 @@
 {{HTML::script('administrator/assets/js/raphael-min.js')}}
 {{HTML::script('administrator/assets/js/morris.min.js')}}
 
-<!-- jQuery Flot -->
-{{HTML::script('administrator/assets/js/excanvas.min.js')}}
-{{HTML::script('administrator/assets/js/jquery.flot.js')}}
-{{HTML::script('administrator/assets/js/jquery.flot.resize.js')}}
-{{HTML::script('administrator/assets/js/jquery.flot.pie.js')}}
-{{HTML::script('administrator/assets/js/jquery.flot.stack.js')}}
+<!--<!-- jQuery Flot -->-->
+<!--{{HTML::script('administrator/assets/js/excanvas.min.js')}}-->
+<!--{{HTML::script('administrator/assets/js/jquery.flot.js')}}-->
+<!--{{HTML::script('administrator/assets/js/jquery.flot.resize.js')}}-->
+<!--{{HTML::script('administrator/assets/js/jquery.flot.pie.js')}}-->
+<!--{{HTML::script('administrator/assets/js/jquery.flot.stack.js')}}-->
 
 <!-- jQuery Notification - Noty -->
 {{HTML::script('administrator/assets/js/jquery.noty.js')}} <!-- jQuery Notify -->
@@ -89,19 +89,17 @@
 {{HTML::script('administrator/assets/js/jquery.gritter.min.js')}} <!-- jQuery Gritter -->
 {{HTML::script('administrator/assets/js/jquery.cleditor.min.js')}} <!-- CLEditor -->
 {{HTML::script('administrator/assets/js/bootstrap-datetimepicker.min.js')}} <!-- Date picker -->
-{{HTML::script('administrator/assets/js/jquery.uniform.min.html')}} <!-- jQuery Uniform -->
+<!--{{HTML::script('administrator/assets/js/jquery.uniform.min.html')}} <!-- jQuery Uniform -->-->
 {{HTML::script('administrator/assets/js/jquery.slimscroll.min.js')}} <!-- jQuery SlimScroll -->
 {{HTML::script('administrator/assets/js/bootstrap-switch.min.js')}} <!-- Bootstrap Toggle -->
 {{HTML::script('administrator/assets/js/jquery.maskedinput.min.js')}} <!-- jQuery Masked Input -->
-{{HTML::script('administrator/assets/js/dropzone.js')}} <!-- jQuery Dropzone -->
+
 {{HTML::script('administrator/assets/js/filter.js')}} <!-- Filter for support page -->
 {{HTML::script('administrator/assets/js/custom.js')}} <!-- Custom codes -->
 {{HTML::script('administrator/assets/js/charts.js')}} <!-- Charts & Graphs -->
-
-{{HTML::script('administrator/assets/js/index.js')}} <!-- Index Javascripts -->
-
+<!--{{HTML::script('administrator/assets/js/index.js')}} <!-- Index Javascripts -->-->
+{{ HTML::script("scripts/jquery.form.js") }}
 {{HTML::script('administrator/assets/js/ga.js')}}
-{{HTML::script('administrator/assets/js/dropzone.js')}}
 <header>
     <div class="navbar navbar-fixed-top bs-docs-nav" role="banner">
 

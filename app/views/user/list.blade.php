@@ -31,10 +31,8 @@ $users=array();
         <td style="text-transform: capitalize">{{ $us->first_name }} {{ $us->last_name }}</td>
         <td><a href="mailto:{{ $us->email }}">{{ $us->staff_id }}</a></td>
         <td id="{{ $us->id }}">
-            <a href="#log" title="View Staff log" class="userlog"><i class="fa fa-list text-success"></i> log</a>&nbsp;&nbsp;&nbsp;
-
-                <a href="#edit" title="edit User" class="edituser"><i class="fa fa-pencil text-info"></i> edit</a>&nbsp;&nbsp;&nbsp;
-                <a href="#b" title="delete User" class="deleteuser"><i class="fa fa-trash-o text-danger"></i> </a>
+          <a href="#edit" title="edit User" class="edituser"><i class="fa fa-pencil text-info"></i> edit</a>&nbsp;&nbsp;&nbsp;
+          <a href="#b" title="delete User" class="deleteuser"><i class="fa fa-trash-o text-danger"></i> </a>
         </td>
     </tr>
     @endforeach

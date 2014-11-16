@@ -85,6 +85,21 @@ Route::get('user/edit/{id}',array('as'=>'edituser', 'uses'=>'UserController@edit
 //editng users information
 Route::post('user/edit/{id}',array('as'=>'edituser', 'uses'=>'UserController@update'));
 
+//deleting user
+Route::post('user/delete/{id}',array('as'=>'deleteuser', 'uses'=>'UserController@destroy'));
+
+
+
+
+//viewing list of users
+Route::get('email',array('as'=>'listemails', 'uses'=>'EmailController@index'));
+
+//display a form to edit users information
+Route::get('email/edit/{id}',array('as'=>'editemails', 'uses'=>'EmailController@edit'));
+
+//deleting user
+Route::post('email/delete/{id}',array('as'=>'deletemails', 'uses'=>'EmailController@destroy'));
+
 
 
 

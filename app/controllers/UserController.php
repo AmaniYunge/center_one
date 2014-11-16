@@ -36,26 +36,18 @@ class UserController extends \BaseController {
     public function store()
     {
         if(Input::get("password") == Input::get("repassword")){
-            $usser = User::where("username",Input::get("username"))->count();
+            $usser = User::where("staff_id",Input::get("email"))->count();
             if($usser != 0){
-                return "<h4 class='text-error'>User with username ".Input::get("username")." already existed Please try another name</h4>";
+                return "<h4 class='text-error'>User with email ".Input::get("email")." already existed Please try another email</h4>";
             }else{
-                if(User::where('email',Input::get("email"))->count() == 0){
+                if(User::where('staff_id',Input::get("email"))->count() == 0){
                 $user = User::create(array(
-                    "firstname"=>Input::get("firstname"),
-                    "username"=>Input::get("username"),
-                    "lastname"=>Input::get("lastname"),
-                    "middlename"=>Input::get("middlename"),
-                    "email"=>Input::get("email"),
-                    "title"=>Input::get("title"),
-                    "password"=>Hash::make(Input::get("password")),
-                    "status"=>"active"
+                    "first_name"=>Input::get("firstname"),
+                    "staff_id"=>Input::get("email"),
+                    "last_name"=>Input::get("lastname"),
+                    "password"=>Input::get("password")
                 ));
-                $name = $user->firstname." ".$user->lastname;
-                Logs::create(array(
-                    "user_id"=>  Auth::user()->id,
-                    "action"  =>"Add user named ".$name
-                ));
+
                 return "<h4 class='text-success'>User Successful Registered</h4>";
             }
                 else{
@@ -101,31 +93,20 @@ class UserController extends \BaseController {
     public function update($id)
     {
         $user = User::find($id);
-        if(User::where('email',Input::get("email"))->where('id','!=',$id)->count() == 0){
-            $user->firstname = Input::get("firstname");
-            $user->middlename = Input::get("middlename");
-            $user->lastname = Input::get("lastname");
-            $user->username = Input::get("username");
-            $user->title = Input::get("title");
-            $user->email = Input::get("email");
+            $user->first_name = Input::get("firstname");
+            $user->last_name = Input::get("lastname");
+            $user->staff_id = Input::get("email");
             $user->save();
-            $name = $user->firstname." ".$user->lastname;
 
-            //udating password
             if(Input::has("password")){
                 if(Input::get("password")===Input::get("re_enter_password")){
                     $user->password = Hash::make(Input::get("password"));
                     $user->save();
                 }else{}
             }
-            Logs::create(array(
-                "user_id"=>  Auth::user()->id,
-                "action"  =>"Update user named ".$name
-            ));
+
             return "<h4 class='text-success'>User Updated Successfull</h4>";
-        }else{
-            return "<h4 class='text-danger'>Email already exist please use other email</h4>";
-        }
+
 
     }
 
@@ -138,13 +119,8 @@ class UserController extends \BaseController {
     public function destroy($id)
     {
         $user = User::find($id);
-        $name = $user->firstname." ".$user->lastname;
-        $user->status="deleted";
-        $user->save();
-        Logs::create(array(
-            "user_id"=>  Auth::user()->id,
-            "action"  =>"Delete user named ".$name
-        ));
+        $user->delete();
+
     }
 
 

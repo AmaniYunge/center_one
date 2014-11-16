@@ -101,8 +101,6 @@
 </div>
 <script>
     $(document).ready(function (){
-
-
         $('#contacts').on('submit', function(e) {
             e.preventDefault();
             $("#output").html("<h3><i class='fa fa-spin fa-spinner'></i><span class='text-success' style='font-size:12px;'>Making changes please wait...</span><h3>");
