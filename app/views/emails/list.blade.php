@@ -1,5 +1,5 @@
 <?php
-  $emails = GuestMail::all();
+  $emails = GuestMail::orderBy("created_at","DESC")->get();
 ?>
 <div class="row">
 <div class="panel panel-default">
@@ -26,12 +26,11 @@
         <td>
             <div class="media">
                 <div class="media-body">
-                    <h4 class="media-heading">{{ $us->name }}</h4>
+                    <h4 class="media-heading">{{ $us->name }} <span class="pull-right">{{ date('d M, Y',strtotime($us->created_at)) }} </span></h4>
                     <p><small><i class="fa fa-envelope"></i> <a href="mailto:{{ $us->email }}">{{ $us->email }}</a>
                     | <i class="fa fa-phone"></i> {{ $us->tel }}
                     </small></p>
-                    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
-                </div>
+{{ $us->contents }}                </div>
             </div>
          </td>
         <td id="{{ $us->id }}">

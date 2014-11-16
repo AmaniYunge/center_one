@@ -39,11 +39,11 @@
                     </div>
 
                      <div id="output">
+                     </div>
                     <div id="form-submit" class="field f_100 clearfix submit">
                         <!--input value="Submit" type="submit"--><br/>
                         <button class="btn btn-small btn-secondary" type="submit" >Submit</button>
                     </div>
-                     </div>
                     </form>
 
                 </div>

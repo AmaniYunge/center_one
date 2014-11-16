@@ -85,29 +85,15 @@ class HomeController extends BaseController {
     public function enquery()
         {
 
-
-         if(Input::get("email") != "" && Input::get("name") !=""){
-         Mail::create(array(
+         GuestMail::create(array(
              "name"=>Input::get("name"),
              "email"=>Input::get("email"),
              "tel"=>Input::get("tel"),
              "contents"=>Input::get("contents"),
          ));
 
+         return "<h4 class='text-success'>message has been received Successful</h4>";
 
-//             Mail::send('contact.enquery',$data, function($message){
-//                $message->from(Input::get("email"), 'Mpera Health Centre Visitor');
-//                $message->to('mperahealthcentre@gmail.com', 'Mpera Health Centre')->subject('Message From Mpera user');
-//
-//             });
-
-
-             return "<h4 class='text-error'>message has been sent..</h4>";
-
-
-        }else{
-return "<h4 class='text-error'>Compulsory field(s) empty.. </h4>";
-}
         }
 
 
